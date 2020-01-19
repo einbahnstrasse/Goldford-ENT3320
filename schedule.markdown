@@ -25,6 +25,7 @@ _Check back frequently!_
 ##### Voice Allocation in Max Using the _bach_ Library
 * [PDF of Patches as Screenshots](/Goldford-ENT3320/resources/week.01/Goldford.Voice.Allocation.with.poly.pdf)
 * [Download Some of the Patches Here](/Goldford-ENT3320/resources/week.01/tutorial.01a.bach.poly~.zip)
+* <a href="/Goldford-ENT3320/resources/week.01/tutorial.01a.bach.poly~.zip" download>Try this download!</a>
 * review of a basic & dirty mononophonic synthesizer
 * a Max poly~ template
 * the bach.roll editor
