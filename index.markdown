@@ -91,13 +91,13 @@ The theme for this semester’s project will be `MEMORY`. Together we'll develop
 
 ### V. GENERAL GRADING RUBRIC for All Project Work
 
-| Score | Grade | Description                                                                          |
-|:------|:------|:-------------------------------------------------------------------------------------|
-| 90-100| A     | Outstanding; pushing the limits of both the student’s creativity and the assignment. |
-| 80-89 | B     | Thorough, thoughtful, and creative approach to the assignment.                       |
-| 70-79 | C     | Average; submitted on time, completed according to minimum requirements.             |
-| 60-69 | D     | Poor; does not meet minimum requirements.                                            |
-| <60   | F     | Fail; incomplete assignment.                                                         |
+| Score  | Grade | Description                                                                          |
+|:-------|:------|:-------------------------------------------------------------------------------------|
+| 90-100%| A     | Outstanding; pushing the limits of both the student’s creativity and the assignment. |
+| 80-89% | B     | Thorough, thoughtful, and creative approach to the assignment.                       |
+| 70-79% | C     | Average; submitted on time, completed according to minimum requirements.             |
+| 60-69% | D     | Poor; does not meet minimum requirements.                                            |
+| <60%   | F     | Fail; incomplete assignment.                                                         |
 
 _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB.](grading.html)_
 
