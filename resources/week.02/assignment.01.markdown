@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink: /resources/week.02/assignment.01.html
+permalink: /resources/week.02/assignment.01.html/
 ---
 # Assignment #1: 10 points
 ## Voice Allocation, poly~ And Usage Of _bach_
