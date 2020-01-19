@@ -21,7 +21,7 @@ The theme for this semester’s project will be `MEMORY`. Together we'll develop
 **Instructor:** Prof. Louis Goldford  
 **Office Hours:** By Appointment  
 **Email:** <a href="mailto:LGoldford@citytech.cuny.edu">LGoldford@citytech.cuny.edu</a>   
-**Schedule:** Mondays + Wednesdays from 6:00 to 8:00 PM  
+**Schedule:** Mondays + Wednesdays from 6:00 to 8:30 PM  
 **Room:** Voorhees 103A  
 
 * * *
