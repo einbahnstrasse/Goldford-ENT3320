@@ -40,7 +40,7 @@ _Check back frequently!_
 * _What sorts of sights do you remember?_
 * Brainstorm — e.g. create a wordcloud, Venn diagram, etc.! 
 
-### [Assignment #1: Due Sunday 2/9!]({{site.baseurl}}/resources/week.02/assignment.01.html)
+### [Assignment #1: Due Sunday 2/9!]({{ site.baseurl }}{% link /resources/week.02/assignment.01.html %})
 
 ##### Introduction to _RTcmix_
 * Overview of [RTcmix.org](http://rtcmix.org/)
