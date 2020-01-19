@@ -20,7 +20,7 @@ _Check back frequently!_
 * Review [Detailed Breakdown of Grading.](grading.html)
 
 ##### Ice-Breaker + Discussion
-* [Godzilla, Kubrick, and Ligeti: How Do We Hear this Music?](/resources/week.01/ligeti.html)
+* [Godzilla, Kubrick, and Ligeti: How Do We Hear this Music?]({{site.baseurl}}/resources/week.01/ligeti.html)
 
 ##### Voice Allocation in Max Using the _bach_ Library
 * [PDF of Patches as Screenshots](/resources/week.01/Goldford.Voice.Allocation.with.poly.pdf)
