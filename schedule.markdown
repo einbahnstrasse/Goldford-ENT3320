@@ -132,7 +132,7 @@ _Check back frequently!_
 	* [Repeating/Re-Triggering Scores with MAXBANG()](https://youtu.be/he7rEYICnAg)
 	* [Reading RTcmix Scores into Unity](https://youtu.be/8yfFbqZX-Og)
 	* [Reading Soundfiles](https://youtu.be/8HldSxQZzxA)
-* Scoralizer for [MAC](/Goldford-ENT3320/resources/week.09/scoralyzer.zip) or [Windows](/Goldford-ENT3320/resources/week.09/scoralyzer-windows)
+* Scoralizer for [MAC](/Goldford-ENT3320/resources/week.09/scoralyzer.zip) or [Windows](/Goldford-ENT3320/resources/week.09/scoralyzer-windows.zip)
 
 * * *
 
