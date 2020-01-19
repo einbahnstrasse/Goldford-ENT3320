@@ -95,7 +95,7 @@ _Check back frequently!_
 #### Sampling and Physical Modeling Synthesis Using _Modalys~_ 
 
 ##### Ice-Breaker + Discussion
-* Listening + Review of [Assignment #2](/Goldford-ENT3320/resources/week.04/assignment.01.html) Patches (on Wednesday 2/26)
+* Listening + Review of [Assignment #2](/Goldford-ENT3320/resources/week.04/assignment.02.html) Patches (on Wednesday 2/26)
 
 ### [Short Assignment #3: Due Sunday 3/1!](/Goldford-ENT3320/resources/week.05/assignment.03.html)
 
