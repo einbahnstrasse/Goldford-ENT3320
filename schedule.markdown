@@ -24,8 +24,7 @@ _Check back frequently!_
 
 ##### Voice Allocation in Max Using the _bach_ Library
 * [PDF of Patches as Screenshots](/Goldford-ENT3320/resources/week.01/Goldford.Voice.Allocation.with.poly.pdf)
-* [Download Some of the Patches Here](/Goldford-ENT3320/resources/week.01/tutorial.01a.bach.poly~.zip)
-* <a href="/Goldford-ENT3320/resources/week.01/tutorial.01a.bach.poly~.zip" download>Try this download!</a>
+* <a href="/Goldford-ENT3320/resources/week.01/tutorial.01a.bach.poly~.zip" download>Download the Starter Patches Here</a>
 * review of a basic & dirty mononophonic synthesizer
 * a Max poly~ template
 * the bach.roll editor
@@ -134,6 +133,7 @@ _Check back frequently!_
 	* [Reading RTcmix Scores into Unity](https://youtu.be/8yfFbqZX-Og)
 	* [Reading Soundfiles](https://youtu.be/8HldSxQZzxA)
 * Scoralizer for [MAC](/Goldford-ENT3320/resources/week.09/scoralyzer.zip) or [Windows](/Goldford-ENT3320/resources/week.09/scoralyzer-windows.zip)
+* Scoralizer for <a href="/Goldford-ENT3320/resources/week.09/scoralyzer.zip" download>MAC</a> or <a href="/Goldford-ENT3320/resources/week.09/scoralyzer-windows.zip" download>Windows</a>
 
 * * *
 
