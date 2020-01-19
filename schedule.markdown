@@ -20,11 +20,11 @@ _Check back frequently!_
 * Review [Detailed Breakdown of Grading.](grading.html)
 
 ##### Ice-Breaker + Discussion
-* [Godzilla, Kubrick, and Ligeti: How Do We Hear this Music?]({{site.baseurl}}/resources/week.01/ligeti.html)
+* [Godzilla, Kubrick, and Ligeti: How Do We Hear this Music?](/Goldford-ENT3320/resources/week.01/ligeti.html)
 
 ##### Voice Allocation in Max Using the _bach_ Library
-* [PDF of Patches as Screenshots](/resources/week.01/Goldford.Voice.Allocation.with.poly.pdf)
-* [Download Some of the Patches Here]({{site.baseurl}}/resources/week.01/tutorial.01a.bach.poly~.zip)
+* [PDF of Patches as Screenshots](/Goldford-ENT3320/resources/week.01/Goldford.Voice.Allocation.with.poly.pdf)
+* [Download Some of the Patches Here](/Goldford-ENT3320/resources/week.01/tutorial.01a.bach.poly~.zip)
 * review of a basic & dirty mononophonic synthesizer
 * a Max poly~ template
 * the bach.roll editor
@@ -58,10 +58,10 @@ _Check back frequently!_
 <p class="redish">No Class Wednesday; <i>City Tech is closed for Lincoln's Birthday.</i></p>
 
 ##### Ice-Breaker + Discussion
-* Listening + Review of [Assignment #1](/resources/week.02/assignment.01.html) Patches (on Monday 2/10)
+* Listening + Review of [Assignment #1](/Goldford-ENT3320/resources/week.02/assignment.01.html) Patches (on Monday 2/10)
 
 ##### Reading: Assigned for Wed. 2/19
-[Ritchey, Marianna. "Intel Beethoven: The New Spirit of Classical Music." In _Composing Capital: Classical Music in the Neoliberal Era_, 114-139. Chicago: The University of Chicago Press, 2019.](/resources/week.03/Ritchey.Chs.4.pdf)
+[Ritchey, Marianna. "Intel Beethoven: The New Spirit of Classical Music." In _Composing Capital: Classical Music in the Neoliberal Era_, 114-139. Chicago: The University of Chicago Press, 2019.](/Goldford-ENT3320/resources/week.03/Ritchey.Chs.4.pdf)
 
 ##### Sound File Treatments with `RTcmix~` (C3)
 * [What is a _"sound treatment"?_](https://fr.wikipedia.org/wiki/Traitement_du_son) 
@@ -78,7 +78,7 @@ _Check back frequently!_
 #### Connecting _RTcmix~_ to _bach_
 <p class="redish">No Class Monday — <i>City Tech is closed for President's Day.</i></p>
 
-### [Assignment #2: Due Tuesday 2/25!](/resources/week.04/assignment.02.html)
+### [Assignment #2: Due Tuesday 2/25!](/Goldford-ENT3320/resources/week.04/assignment.02.html)
 
 ##### Ice-Breaker + Discussion
 * Group discussion of the Ritchey chapter assigned on 2/10
@@ -95,9 +95,9 @@ _Check back frequently!_
 #### Sampling and Physical Modeling Synthesis Using _Modalys~_ 
 
 ##### Ice-Breaker + Discussion
-* Listening + Review of [Assignment #2](/resources/week.04/assignment.01.html) Patches (on Wednesday 2/26)
+* Listening + Review of [Assignment #2](/Goldford-ENT3320/resources/week.04/assignment.01.html) Patches (on Wednesday 2/26)
 
-### [Short Assignment #3: Due Sunday 3/1!](/resources/week.05/assignment.03.html)
+### [Short Assignment #3: Due Sunday 3/1!](/Goldford-ENT3320/resources/week.05/assignment.03.html)
 
 ##### Introduction to _Modalys~_
 * `modalys~` for physical modeling synthesis in Max/MSP
@@ -132,7 +132,7 @@ _Check back frequently!_
 	* [Repeating/Re-Triggering Scores with MAXBANG()](https://youtu.be/he7rEYICnAg)
 	* [Reading RTcmix Scores into Unity](https://youtu.be/8yfFbqZX-Og)
 	* [Reading Soundfiles](https://youtu.be/8HldSxQZzxA)
-* Scoralizer for [MAC](/resources/week.09/scoralyzer.zip) or [Windows](/resources/week.09/scoralyzer-windows)
+* Scoralizer for [MAC](/Goldford-ENT3320/resources/week.09/scoralyzer.zip) or [Windows](/Goldford-ENT3320/resources/week.09/scoralyzer-windows)
 
 * * *
 
@@ -188,7 +188,7 @@ _Check back frequently!_
 ### Week 8: March 16th & 18th 
 #### 3D Audio Spatialization
 
-### [Midterm Assignment #4: Due Sunday 3/22!](/resources/week.08/assignment.04.html)
+### [Midterm Assignment #4: Due Sunday 3/22!](/Goldford-ENT3320/resources/week.08/assignment.04.html)
 
 ##### Spatialization in _spat~_
 * [spat~ for Max/MSP: download is NOW FREE!](https://forum.ircam.fr/projects/detail/spat/)
@@ -209,7 +209,7 @@ _Check back frequently!_
 <p class="redish">Midterm grades will be available by 3/26.</p>
 
 ##### Ice-Breaker + Discussion
-* Listening + Review of [Midterm Assignment #4](/resources/week.08/assignment.04.html) (on Monday 3/23)
+* Listening + Review of [Midterm Assignment #4](/Goldford-ENT3320/resources/week.08/assignment.04.html) (on Monday 3/23)
 
 ##### Particle Systems in _Unity_
 * [Unity Tutorials: Particle Systems](https://www.raywenderlich.com/138-introduction-to-unity-particle-systems)
@@ -240,7 +240,7 @@ _Check back frequently!_
 	* Lanscapes? 
 	* Shoot/edit video content?
 
-### [Assignment #5: Due Sunday 4/19!](/resources/week.10/assignment.05.html)
+### [Assignment #5: Due Sunday 4/19!](/Goldford-ENT3320/resources/week.10/assignment.05.html)
 * Create a simple Unity 'scene' using our recently-acquired synthesis and spatialization tools.
 * As a "test" of the basic setup for our final project.
 * Note: These will be SHORT sketches in which EACH STUDENT writes a short scene in Unity and attaches their own sounds to it. 
