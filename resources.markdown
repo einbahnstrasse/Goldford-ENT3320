@@ -23,7 +23,7 @@ _A list of stuff we'll be using throughout the course. Most are open source; Max
 		* [Repeating/Re-Triggering Scores with MAXBANG()](https://youtu.be/he7rEYICnAg)
 		* [Reading RTcmix Scores into Unity](https://youtu.be/8yfFbqZX-Og)
 		* [Reading Soundfiles](https://youtu.be/8HldSxQZzxA)
-	* `Scoralizer` for [MAC](/resources/week.09/scoralyzer.zip) or [Windows](/resources/week.09/scoralyzer-windows)
+	* `Scoralizer` for <a href="/Goldford-ENT3320/resources/week.09/scoralyzer.zip" download>MAC</a> or <a href="/Goldford-ENT3320/resources/week.09/scoralyzer-windows.zip" download>Windows</a>
 
 ### _Unity_ and Related Libraries 
 * [Unity](https://unity.com/)
