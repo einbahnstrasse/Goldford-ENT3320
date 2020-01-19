@@ -20,11 +20,11 @@ _Check back frequently!_
 * Review [Detailed Breakdown of Grading.](grading.html)
 
 ##### Ice-Breaker + Discussion
-* [Godzilla, Kubrick, and Ligeti: How Do We Hear this Music?](/resources/week.01/ligeti.html)
+* [Godzilla, Kubrick, and Ligeti: How Do We Hear this Music?]({{site.baseurl}}/resources/week.01/ligeti.html)
 
 ##### Voice Allocation in Max Using the _bach_ Library
 * [PDF of Patches as Screenshots](/resources/week.01/Goldford.Voice.Allocation.with.poly.pdf)
-* [Download Some of the Patches Here](/resources/week.01/tutorial.01a.bach.poly~.zip)
+* [Download Some of the Patches Here]({{site.baseurl}}/resources/week.01/tutorial.01a.bach.poly~.zip)
 * review of a basic & dirty mononophonic synthesizer
 * a Max poly~ template
 * the bach.roll editor
@@ -40,7 +40,7 @@ _Check back frequently!_
 * _What sorts of sights do you remember?_
 * Brainstorm — e.g. create a wordcloud, Venn diagram, etc.! 
 
-### [Assignment #1: Due Sunday 2/9!](/resources/week.02/assignment.01.html)
+### [Assignment #1: Due Sunday 2/9!]({{site.baseurl}}/resources/week.02/assignment.01.html)
 
 ##### Introduction to _RTcmix_
 * Overview of [RTcmix.org](http://rtcmix.org/)
