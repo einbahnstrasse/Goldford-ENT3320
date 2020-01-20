@@ -13,7 +13,7 @@ In this technical production course, students will collaborate on a team to crea
 
 Emphasis will be on sound and music _within_ VR, and not sound that merely _accompanies_ a visual world. We'll consider excerpts from film and periodic readings to better understand the role sound plays in any audio-visual experience. Our soundtracks will become vital components of the virtual experience, and as such we'll be using tools for real-time music generation alongside those that allow us to shape recorded and environmental sounds, etc. In doing so, we'll also ponder the question: _What is the relationship between sounds found in nature and those found in music?_
 
-The theme for this semester’s project will be `MEMORY`. Together we'll develop a narrative around how a person’s daily activities can be interrupted and shaped by their memories and their dreams. To do this, we’ll be embedding a real-time music and sound synthesis program inside _Unity._ We’ll briefly visit the concepts of spatialization and physical modeling synthesis using the programs _Spat_ and _Modalys._ 
+The theme for this semester’s project will be `MEMORY`. Together we'll develop a narrative around how a person’s daily activities can be interrupted and shaped by their memories and their dreams. To do this, we’ll be embedding a real-time music and sound synthesis program called _RTcmix_ inside _Unity._ We’ll briefly visit the concepts of spatialization and physical modeling synthesis using the programs _Spat_ and _Modalys._ 
 
 * * *
 
