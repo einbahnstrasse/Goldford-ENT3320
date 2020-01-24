@@ -99,7 +99,7 @@ _See the [SOFTWARE TAB](/Goldford-ENT3320/resources.html) for download and docum
 * * *
 
 ### VIII. Attendance + Participation Policy
-* Your participation will form the bulk of your grade in this class.
+_Your participation will form the bulk of your grade in this class._
 * Students are expected to arrive promptly to all class sessions and to participate and engage in our activities, discussions, group project work and individual assignments. 
 * Follow this **Procedure for Absences:**
 	* Contact a classmate for notes on what you missed (e.g. on Slack).
