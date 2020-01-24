@@ -11,13 +11,13 @@ layout: default
 
 ### I. Contact Information
 
-**Location + Time:** Mondays + Wednesdays 6:00-8:30 PM V103A
-**Professor:** Louis Goldford
-**Email:** <a href="mailto:LGoldford@citytech.cuny.edu">LGoldford@citytech.cuny.edu</a> 
-**Office Hours:** by appointment
-**Office Location:** V203
-**Course Website:** <a href="https://einbahnstrasse.github.io/Goldford-ENT3320/">https://einbahnstrasse.github.io/Goldford-ENT3320/</a>
-**Course Slack:** <a href="http://goldford-ent3320.slack.com/">http://goldford-ent3320.slack.com/</a>
+**Location + Time:** Mondays + Wednesdays 6:00-8:30 PM V103A  
+**Professor:** Louis Goldford  
+**Email:** <a href="mailto:LGoldford@citytech.cuny.edu">LGoldford@citytech.cuny.edu</a>  
+**Office Hours:** by appointment  
+**Office Location:** V203  
+**Course Website:** <a href="https://einbahnstrasse.github.io/Goldford-ENT3320/">https://einbahnstrasse.github.io/Goldford-ENT3320/</a>  
+**Course Slack:** <a href="http://goldford-ent3320.slack.com/">http://goldford-ent3320.slack.com/</a>  
 
 * * *
 
@@ -30,44 +30,44 @@ The theme for this semester’s project will be MEMORY. Together we’ll develop
 * * *
 
 ### III. Course Goals
-* To create an immersive VR experience with algorithmically-generated audio and music while:
-* Introducing students to the RTcmix sound synthesis programming language 
-* Refining students’ workflow/workspace in MaxMSP, especially as related to the development of polyphonic synthesizers and in composing scheduled sequences of music and audio
-* Adding new libraries for synthesis and spatialization to students’ creative “toolkits”
-* Embedding RTcmix within Unity; to import composed/sculpted sound into a gaming engine
-* Storyboarding and designing a narrative around a central theme
+* To create an immersive VR experience with algorithmically-generated audio and music while:  
+* Introducing students to the RTcmix sound synthesis programming language  
+* Refining students’ workflow/workspace in MaxMSP, especially as related to the development of polyphonic synthesizers and in composing scheduled sequences of music and audio  
+* Adding new libraries for synthesis and spatialization to students’ creative “toolkits”  
+* Embedding RTcmix within Unity; to import composed/sculpted sound into a gaming engine  
+* Storyboarding and designing a narrative around a central theme  
 
 * * *
 
 ### IV. Learning Outcomes
 By the end of the course students will be able to:
-* **Create** original music and sound sequences using MaxMSP, RTcmix, and Modalys. 
-* **Understand** the fundamentals of poly~ design in Max.
-* **Implement** a personal workspace for creating sound using the bach Library for Max.
-* **Spatialize** and **Localize** audio sources inside Unity using Spat and RTcmix.
-* **Record,** Edit, and **Chroma Key** video clips to be used as assets in Unity.
-* **Establish** a personal creative vision, and communicate it to your team member(s).
-* **Implement** a shared workspace repository and develop work collectively. 
-* **Respect,** and **Respond** to the ideas and the critique of peers and team members.
+* **Create** original music and sound sequences using MaxMSP, RTcmix, and Modalys.   
+* **Understand** the fundamentals of poly~ design in Max.  
+* **Implement** a personal workspace for creating sound using the bach Library for Max.  
+* **Spatialize** and **Localize** audio sources inside Unity using Spat and RTcmix.  
+* **Record,** Edit, and **Chroma Key** video clips to be used as assets in Unity.  
+* **Establish** a personal creative vision, and communicate it to your team member(s).  
+* **Implement** a shared workspace repository and develop work collectively.   
+* **Respect,** and **Respond** to the ideas and the critique of peers and team members.  
 
 * * *
 
 ### V. Software + Other Course Resources
 _See the SOFTWARE TAB for download and documentation links._
-* MaxMSP
-* Unity
-* RTcmix (algorithmic sound language with MaxMSP external for synthesis prototyping)
-* uRTcmix (Unity package)
-* the bach Library for Computer-Assisted Composition in MaxMSP
-* Spat
-* Modalys
-* Apple Logic Pro
-* Adobe After Effects
-* DSLR camera / green screen for recording video assets in Unity (supplied)
-* Slack
-* GitHub
-* Flash drive & other portable drives or Dropbox/Google Drive account to back up files
-* Occasional short readings (supplied as downloadable PDFs or links)
+* MaxMSP  
+* Unity  
+* RTcmix (algorithmic sound language with MaxMSP external for synthesis prototyping)  
+* uRTcmix (Unity package)  
+* the bach Library for Computer-Assisted Composition in MaxMSP  
+* Spat  
+* Modalys  
+* Apple Logic Pro  
+* Adobe After Effects  
+* DSLR camera / green screen for recording video assets in Unity (supplied)  
+* Slack  
+* GitHub  
+* Flash drive & other portable drives or Dropbox/Google Drive account to back up files  
+* Occasional short readings (supplied as downloadable PDFs or links)  
 
 * * *
 
@@ -109,11 +109,11 @@ _See the SOFTWARE TAB for download and documentation links._
 * _A lack of communication with the instructor about any planned absence will therefore be treated as unexcused. Be in touch early about any such absences._ 
 * **Unexcused absences/lateness result in lowered participation grades.** Prompt 6:00 arrival earns you an immediate 5 points (i.e. full participation) but is subject to your engagement in class. For arrivals after 6:00, the following weighted score system will be adopted:
 
-| 6:01-6:10 | 4 points |
-| 6:10-6:30 | 3 points |
-| 6:30-7:00 | 2 points |
-| after 7:00 | 1 point |
-| absent    | 0 point |
+	| 6:01-6:10 | 4 points |
+	| 6:10-6:30 | 3 points |
+	| 6:30-7:00 | 2 points |
+	| after 7:00 | 1 point |
+	| absent    | 0 points |
 
 * Your engagement in class will be corroborated with points incurred by your arrival time for the complete participation score in each session (out of 5 points total). In other words, to a limited extent points can be earned back through active engagement and contribution. So for a 7:00 arrival, for example, positively contributing can still increase your score beyond 1 point. 
 * **Three (3) unexcused absences** will lower your final course grade by 10% (i.e. one letter grade).
