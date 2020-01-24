@@ -21,7 +21,7 @@ layout: default
 
 * * *
 
-### II. Contact Information
+### II. Course Description
 In this technical production course, students will collaborate on a team to create an immersive VR environment with interactive sound and music. Our goal will be an expressive VR experience with interactive audio rather than simply a game with fixed sound files. 
 Emphasis will be on sound and music within VR, and not sound that merely accompanies a visual world. We’ll consider excerpts from film and periodic readings to better understand the role sound plays in any audio-visual experience. Our soundtracks will become vital components of the virtual experience, and as such we’ll be using tools for real-time music generation alongside those that allow us to shape recorded and environmental sounds, etc.
 
