@@ -25,7 +25,7 @@ _Check back frequently!_
 ##### Voice Allocation in Max Using the _bach_ Library
 * [PDF of Patches as Screenshots](/Goldford-ENT3320/resources/week.01/Goldford.Voice.Allocation.with.poly.pdf)
 * <a href="/Goldford-ENT3320/resources/week.01/tutorial.01a.bach.poly~.zip" download>Download the Starter Patches Here</a>
-* review of a basic & dirty mononophonic synthesizer
+* review of a basic & dirty monophonic synthesizer
 * a Max poly~ template
 * the bach.roll editor
 * making bach.roll speak to poly~
@@ -226,7 +226,7 @@ _Check back frequently!_
 
 ### Week 10: March 30th & April 1st 
 #### Storyboarding + Project #5 Prep
-<p class="redish">Louis will be absent on April 1st; a substitute professor will be present.</p>
+<p class="redish">Prof. Goldford will be absent on April 1st; a substitute professor will be present.</p>
 
 ##### Ice-Breaker + Discussion
 * Develop a _storyboard_ for any number of elements + short scenes that our collective project might include.
