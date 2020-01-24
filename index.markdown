@@ -25,12 +25,12 @@ layout: default
 In this technical production course, students will collaborate on a team to create an immersive VR environment with interactive sound and music. Our goal will be an expressive VR experience with interactive audio rather than simply a game with fixed sound files. 
 Emphasis will be on sound and music within VR, and not sound that merely accompanies a visual world. We’ll consider excerpts from film and periodic readings to better understand the role sound plays in any audio-visual experience. Our soundtracks will become vital components of the virtual experience, and as such we’ll be using tools for real-time music generation alongside those that allow us to shape recorded and environmental sounds, etc.
 
-The theme for this semester’s project will be MEMORY. Together we’ll develop a narrative around how a person’s daily activities can be interrupted and shaped by their memories and their dreams. To do this, we’ll be embedding a real-time music and sound synthesis program called RTcmix inside Unity. We’ll briefly visit the concepts of spatialization and physical modeling synthesis using the programs Spat and Modalys. 
+The theme for this semester’s project will be `MEMORY`. Together we’ll develop a narrative around how a person’s daily activities can be interrupted and shaped by their memories and their dreams. To do this, we’ll be embedding a real-time music and sound synthesis program called RTcmix inside Unity. We’ll briefly visit the concepts of spatialization and physical modeling synthesis using the programs Spat and Modalys. 
 
 * * *
 
 ### III. Course Goals
-* To create an immersive VR experience with algorithmically-generated audio and music while:  
+_To create an immersive VR experience with algorithmically-generated audio and music while:_  
 * Introducing students to the RTcmix sound synthesis programming language  
 * Refining students’ workflow/workspace in MaxMSP, especially as related to the development of polyphonic synthesizers and in composing scheduled sequences of music and audio  
 * Adding new libraries for synthesis and spatialization to students’ creative “toolkits”  
@@ -40,7 +40,7 @@ The theme for this semester’s project will be MEMORY. Together we’ll develop
 * * *
 
 ### IV. Learning Outcomes
-By the end of the course students will be able to:
+_By the end of the course students will be able to:_
 * **Create** original music and sound sequences using MaxMSP, RTcmix, and Modalys.   
 * **Understand** the fundamentals of poly~ design in Max.  
 * **Implement** a personal workspace for creating sound using the bach Library for Max.  
@@ -53,7 +53,7 @@ By the end of the course students will be able to:
 * * *
 
 ### V. Software + Other Course Resources
-_See the SOFTWARE TAB for download and documentation links._
+_See the [SOFTWARE TAB](/Goldford-ENT3320/resources.html) for download and documentation links._
 * MaxMSP  
 * Unity  
 * RTcmix (algorithmic sound language with MaxMSP external for synthesis prototyping)  
@@ -127,7 +127,7 @@ _See the SOFTWARE TAB for download and documentation links._
 ### IX. Academic Integrity Policy
 Students and all others who work with information, ideas, texts, images, music, inventions, and other intellectual property owe their audience and sources accuracy and honesty in using, crediting, and citing sources. As a community of intellectual and professional workers, the College recognizes its responsibility for providing instruction in information literacy and academic integrity, offering models of good practice, and responding vigilantly and appropriately to infractions of academic integrity. Accordingly, academic dishonesty is prohibited in The City University of New York and at New York City College of Technology and is punishable by penalties, including failing grades, suspension, and expulsion. The complete text of the College policy on Academic Integrity may be found in the catalog.
 
-_Instructor Note: Code borrowed from another source must be attributed as a comment within the code of your Max patch, Modalys script, RTcmix~ score, Unity project, etc. If you are unsure of whether or not your work may constitute plagiarism, please check with the instructor before submitting. Where applicable and where marked within our course materials, follow the provisions of the [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)_
+**Instructor Note:** _Code borrowed from another source must be attributed as a comment within the code of your Max patch, Modalys script, RTcmix~ score, Unity project, etc. If you are unsure of whether or not your work may constitute plagiarism, please check with the instructor before submitting. Where applicable and where marked within our course materials, follow the provisions of the [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)_
 
 * * *
 
