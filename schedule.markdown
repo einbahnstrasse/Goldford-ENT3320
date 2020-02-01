@@ -57,6 +57,7 @@ _Check back frequently!_
 * Overview of [RTcmix.org](http://rtcmix.org/)
 * [Scorefile commands + functions](http://rtcmix.org/reference/scorefile/) vs. [RTcmix instruments](http://rtcmix.org/reference/instruments/)
 * the RTcmix~ Max external
+* [PDF of Patches as Screenshots](/Goldford-ENT3320/resources/week.03/Goldford.First.steps.in.RTcmix.pdf)
 
 ##### Some Basic Patches + RTcmix Scripts
 * the [STRUM](http://rtcmix.org/reference/instruments/STRUM.php) and [WAVETABLE](http://rtcmix.org/reference/instruments/WAVETABLE.php) instruments
