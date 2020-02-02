@@ -80,7 +80,7 @@ _Check back frequently!_
 * [Intel Beethoven _Experience Amazing_ Ad #2](https://youtu.be/JU9LoDd_5bo)
 
 ##### Sound File Treatments with `RTcmix~` (C3)
-* [Download a ZIP of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing)
+* [Download a library of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing)
 * [What is a _"sound treatment"?_](https://fr.wikipedia.org/wiki/Traitement_du_son) 
 * Introduction to the [STEREO](http://rtcmix.org/reference/instruments/STEREO.php) and [MIX](http://rtcmix.org/reference/instruments/MIX.php) Instruments
 * the [TRANS](http://rtcmix.org/reference/instruments/TRANS.php) Pitch-Transposition Instrument
