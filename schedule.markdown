@@ -33,7 +33,7 @@ _Check back frequently!_
 * * *
 
 ### Week 2: February 3rd & 5th
-#### Introduction to _RTcmix~_
+#### Continuation of Work with `poly~`
 
 ##### Ice-Breaker + Discussion
 * _What sorts of sounds do you remember?_
@@ -50,7 +50,7 @@ _Check back frequently!_
 * * *
 
 ### Week 3: February 10th Only 
-#### Intermediate _RTcmix~_
+#### Introduction to _RTcmix~_ + Connecting _RTcmix~_ to _bach_
 <p class="redish">No Class Wednesday; <i>City Tech is closed for Lincoln's Birthday.</i></p>
 
 ##### Ice-Breaker + Discussion
@@ -76,7 +76,7 @@ _Check back frequently!_
 * * *
 
 ### Week 4: February 17th & 19th 
-#### Connecting _RTcmix~_ to _bach_
+#### Intermediate _RTcmix~_
 
 ##### Ice-Breaker + Discussion
 * Listening + Review of [Assignment #1](/Goldford-ENT3320/resources/week.02/assignment.01.html) Patches (on Monday 2/17)
