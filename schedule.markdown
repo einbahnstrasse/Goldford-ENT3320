@@ -40,9 +40,12 @@ _Check back frequently!_
 * _What sorts of sights do you remember?_
 * Brainstorm — e.g. create a wordcloud, Venn diagram, etc.! 
 
-### [Assignment #1: Due Sunday 2/9!](/Goldford-ENT3320/resources/week.02/assignment.01.html)
+### [Assignment #1: Due Sunday 2/17!](/Goldford-ENT3320/resources/week.02/assignment.01.html)
 * Finish building patches from Week 1.  
 * Work on assignment and finish projects for next week!
+
+##### Reading: Assigned for Monday 2/10
+[Ritchey, Marianna. "Intel Beethoven: The New Spirit of Classical Music." In _Composing Capital: Classical Music in the Neoliberal Era_, 114-139. Chicago: The University of Chicago Press, 2019.](/Goldford-ENT3320/resources/week.03/Ritchey.Chs.4.pdf)
 
 * * *
 
@@ -51,7 +54,9 @@ _Check back frequently!_
 <p class="redish">No Class Wednesday; <i>City Tech is closed for Lincoln's Birthday.</i></p>
 
 ##### Ice-Breaker + Discussion
-* Listening + Review of [Assignment #1](/Goldford-ENT3320/resources/week.02/assignment.01.html) Patches (on Monday 2/10)
+* Group discussion of the Ritchey chapter assigned on 2/10
+* [Intel Beethoven _Experience Amazing_ Ad #1](https://youtu.be/JOkpg_MC6Vc)
+* [Intel Beethoven _Experience Amazing_ Ad #2](https://youtu.be/JU9LoDd_5bo)
 
 ##### Introduction to _RTcmix_
 * Overview of [RTcmix.org](http://rtcmix.org/)
@@ -64,20 +69,19 @@ _Check back frequently!_
 * the [STRUM](http://rtcmix.org/reference/instruments/STRUM.php) and [WAVETABLE](http://rtcmix.org/reference/instruments/WAVETABLE.php) instruments
 * Using a `for loop` to generate a sequence of notes
 
-##### Reading: Assigned for Wed. 2/19
-[Ritchey, Marianna. "Intel Beethoven: The New Spirit of Classical Music." In _Composing Capital: Classical Music in the Neoliberal Era_, 114-139. Chicago: The University of Chicago Press, 2019.](/Goldford-ENT3320/resources/week.03/Ritchey.Chs.4.pdf)
+##### MIDI Sequence —> RTcmix~
+* `bach.roll` as a MIDI sequencer / DAW / Event Manager
+* `RTcmix~` for Synthesis + Voice Allocation: in place of poly~ 
 
 * * *
 
 ### Week 4: February 17th & 19th 
 #### Connecting _RTcmix~_ to _bach_
 
-### [Assignment #2: Due Tuesday 2/25!](/Goldford-ENT3320/resources/week.04/assignment.02.html)
-
 ##### Ice-Breaker + Discussion
-* Group discussion of the Ritchey chapter assigned on 2/10
-* [Intel Beethoven _Experience Amazing_ Ad #1](https://youtu.be/JOkpg_MC6Vc)
-* [Intel Beethoven _Experience Amazing_ Ad #2](https://youtu.be/JU9LoDd_5bo)
+* Listening + Review of [Assignment #1](/Goldford-ENT3320/resources/week.02/assignment.01.html) Patches (on Monday 2/17)
+
+### [Assignment #2: Due Tuesday 2/25!](/Goldford-ENT3320/resources/week.04/assignment.02.html)
 
 ##### Sound File Treatments with `RTcmix~` (C3)
 * [Download a library of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing)
@@ -88,10 +92,6 @@ _Check back frequently!_
 * the [GVERB](http://rtcmix.org/reference/instruments/GVERB.php) Gigaverb-type and [FREEVERB](http://rtcmix.org/reference/instruments/FREEVERB.php) Schroeder/Moorer Reverb Models
 * the [PVOC](http://rtcmix.org/reference/instruments/PVOC.php) Phase Vocoder
 * [AM](http://rtcmix.org/reference/instruments/AM.php), i.e. apply amplitude or ring modulation to an input source
-
-##### MIDI Sequence —> RTcmix~
-* `bach.roll` as a MIDI sequencer / DAW / Event Manager
-* `RTcmix~` for Synthesis + Voice Allocation: in place of poly~ 
 
 * * *
 

@@ -13,7 +13,7 @@ _For an overview of grading policies for this course, see the [General Grading C
 
 | Points | Deadline | Assignment Description                                                               |
 |:-------|:---------|:-------------------------------------------------------------------------------------|
-| 10     | Feb 9    | [Assignment #1: Voice Allocation, _poly~_ And Usage Of _bach_](/Goldford-ENT3320/resources/week.02/assignment.01.html) |
+| 10     | Feb 16   | [Assignment #1: Voice Allocation, _poly~_ And Usage Of _bach_](/Goldford-ENT3320/resources/week.02/assignment.01.html) |
 | 10     | Feb 25   | [Assignment #2: Connecting _bach_ to _RTcmix~_](/Goldford-ENT3320/resources/week.04/assignment.02.html) |
 | 10     | Mar 1    | [Short Assignment #3: A Physical Modeling Sampler Made from _Modalys~_](/Goldford-ENT3320/resources/week.05/assignment.03.html) |
 | `20`   | Mar 22   | [MIDTERM Assignment #4: Algorithmic Extensions of Synthesis Processes](/Goldford-ENT3320/resources/week.08/assignment.04.html) |

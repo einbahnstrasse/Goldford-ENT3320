@@ -13,15 +13,12 @@ layout: default
 	* Your script should employ the use of at least one `maketable` or `makegen` function, possibly linked to a `bach` slot. These can be used to modulate a note's amplitude envelope, FM depth, or any other synthesis parameter of your choosing.
 * Write a short musical sequence stored in a `bach.roll`:
 	* Your sequence should have at least 2 voices.
-	* Each voice must be routed to a separate `RTcmix~` synthesis engine.
+	* Each voice must be routed to a separate `RTcmix~` synthesis engine using a `poly~`.
 	* Consider how your chosen sound and sketch of material might be used in our final project about memory.
 	* _Some excerpts may be chosen for inclusion in, or for development towards, our final project._
 * Write a text file that translates your bach sequence into RTcmix code:
 	* Each note of your `bach.roll` must be written as a separate line of code with its own function call to an RTcmix instrument, parsing the correct pitch, onset, duration, and/or velocity data received from bach.
 	* Consider using Max's `sprintf` and `text` objects to create and increment each line of your text file, as demonstrated in class.
-* CHALLENGE:
-	* Consider using the `goscript 1` syntax to dynamically change your synth engine script(s). 
-	* Consider making your RTcmix script _generative;_ that is, with each incoming note from `bach.roll`, your `RTcmix~` script will generate multiple note events after receiving just one trigger.
 
 ### LENGTH
 Between 1 and 2 minutes of material maximum.
