@@ -40,7 +40,7 @@ _Check back frequently!_
 * _What sorts of sights do you remember?_
 * Brainstorm — e.g. create a wordcloud, Venn diagram, etc.! 
 
-### [Assignment #1: Due Sunday 2/17!](/Goldford-ENT3320/resources/week.02/assignment.01.html)
+### [Assignment #1: Due Sunday 2/16!](/Goldford-ENT3320/resources/week.02/assignment.01.html)
 * Finish building patches from Week 1.  
 * Work on assignment and finish projects for next week!
 
