@@ -85,7 +85,7 @@ _Check back frequently!_
 
 ##### Sound File Treatments with `RTcmix~` (C3)
 * [Download a library of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing)
-* [What is a _"sound treatment"?_](https://fr.wikipedia.org/wiki/Traitement_du_son) 
+* [PDF of Patches as Screenshots](/Goldford-ENT3320/resources/week.04/Goldford.Sound.Treatments.pdf)
 * Introduction to the [STEREO](http://rtcmix.org/reference/instruments/STEREO.php) and [MIX](http://rtcmix.org/reference/instruments/MIX.php) Instruments
 * the [TRANS](http://rtcmix.org/reference/instruments/TRANS.php) Pitch-Transposition Instrument
 * the [MOOGVCF](http://rtcmix.org/reference/instruments/MOOGVCF.php) 24dB/octave Resonant Lowpass Filter
