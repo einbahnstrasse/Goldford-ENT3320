@@ -74,10 +74,6 @@ _Check back frequently!_
 * the [STRUM](http://rtcmix.org/reference/instruments/STRUM.php) and [WAVETABLE](http://rtcmix.org/reference/instruments/WAVETABLE.php) instruments
 * Using a `for loop` to generate a sequence of notes
 
-##### MIDI Sequence —> RTcmix~
-* `bach.roll` as a MIDI sequencer / DAW / Event Manager
-* `RTcmix~` for Synthesis + Voice Allocation: in place of poly~ 
-
 * * *
 
 ### Week 4: February 17th & 19th 
@@ -97,6 +93,10 @@ _Check back frequently!_
 * the [GVERB](http://rtcmix.org/reference/instruments/GVERB.php) Gigaverb-type and [FREEVERB](http://rtcmix.org/reference/instruments/FREEVERB.php) Schroeder/Moorer Reverb Models
 * the [PVOC](http://rtcmix.org/reference/instruments/PVOC.php) Phase Vocoder
 * [AM](http://rtcmix.org/reference/instruments/AM.php), i.e. apply amplitude or ring modulation to an input source
+
+##### MIDI Sequence —> RTcmix~
+* `bach.roll` as a MIDI sequencer / DAW / Event Manager
+* `RTcmix~` for Synthesis + Voice Allocation: in place of poly~ 
 
 * * *
 
