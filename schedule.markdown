@@ -58,6 +58,11 @@ _Check back frequently!_
 * [Intel Beethoven _Experience Amazing_ Ad #1](https://youtu.be/JOkpg_MC6Vc)
 * [Intel Beethoven _Experience Amazing_ Ad #2](https://youtu.be/JU9LoDd_5bo)
 
+##### Assignment #1 Prep
+* Finish bach slots patches in PDF
+* Review Assignment #1 page one last time...
+* [New Computer Keyboard MIDI patches, when a real MIDI keyboard is unavailable](/Goldford-ENT3320/resources/week.03/lg.computer.midi.keyboard.zip)
+
 ##### Introduction to _RTcmix_
 * Overview of [RTcmix.org](http://rtcmix.org/)
 * [Scorefile commands + functions](http://rtcmix.org/reference/scorefile/) vs. [RTcmix instruments](http://rtcmix.org/reference/instruments/)
