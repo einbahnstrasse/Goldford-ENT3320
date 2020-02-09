@@ -10,8 +10,8 @@ layout: default
 * Instantiate at least 2 of your own `RTcmix~` objects running separate RTcmix scripts:
 	* You'll be using `RTcmix~` in place of `poly~` as a synthesis engine for this assignment.
 	* Consider tweaking any of the RTcmix instruments or scripts we've demonstrated in class.
-	* Your script should employ the use of at least one `maketable` or `makegen` function, possibly linked to a `bach` slot. These can be used to modulate a note's amplitude envelope, FM depth, or any other synthesis parameter of your choosing.
-* Write a short musical sequence stored in a `bach.roll`:
+	* Your script should employ the use of at least one `maketable` or `makegen` function. These can be used to modulate a note's amplitude envelope, FM depth, filter cutoff frequency, or any other synthesis parameter of your choosing.
+* Write another short musical sequence stored in a `bach.roll`, different from Assignment #1:
 	* Your sequence should have at least 2 voices.
 	* Each voice must be routed to a separate `RTcmix~` synthesis engine using a `poly~`.
 	* Consider how your chosen sound and sketch of material might be used in our final project about memory.
@@ -19,6 +19,9 @@ layout: default
 * Write a text file that translates your bach sequence into RTcmix code:
 	* Each note of your `bach.roll` must be written as a separate line of code with its own function call to an RTcmix instrument, parsing the correct pitch, onset, duration, and/or velocity data received from bach.
 	* Consider using Max's `sprintf` and `text` objects to create and increment each line of your text file, as demonstrated in class.
+* Your composition may optionally include any of the _RTcmix_ treatments we discussed;
+	* Either those covered in class in our demo patches, or
+	* Any treatment or combination/chain thereof you can imagine, using bus_config() to combine them.
 
 ### LENGTH
 Between 1 and 2 minutes of material maximum.
