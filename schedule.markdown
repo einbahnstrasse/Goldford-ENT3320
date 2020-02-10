@@ -53,6 +53,9 @@ _Check back frequently!_
 #### Introduction to _RTcmix~_ + Connecting _RTcmix~_ to _bach_
 <p class="redish">No Class Wednesday; <i>City Tech is closed for Lincoln's Birthday.</i></p>
 
+##### Drivers for Oxygen 8 USB/MIDI Keyboards
+* [Thanks for these, Alberto!](https://m-audio.com/support/download/drivers/midi-usb-driver-v3.5.3-mac)
+
 ##### Ice-Breaker + Discussion
 * Group discussion of the Ritchey chapter assigned on 2/10
 * [Intel Beethoven _Experience Amazing_ Ad #1](https://youtu.be/JOkpg_MC6Vc)
@@ -86,6 +89,7 @@ _Check back frequently!_
 ### [Assignment #2: Due Sunday 3/1!](/Goldford-ENT3320/resources/week.04/assignment.02.html)
 
 ##### MIDI Sequence —> RTcmix~
+* Continue patching the examples in our PDF from last week...
 * `bach.roll` as a MIDI sequencer / DAW / Event Manager
 * `RTcmix~` for Synthesis + Voice Allocation: in place of poly~ 
 
@@ -94,8 +98,8 @@ _Check back frequently!_
 ### Week 5: February 24th & 26th 
 
 ##### Assignment #2 Prep
-* Finish bach slots patches in PDF
-* Review Assignment #1 page one last time...
+* Finish bach-to-RTcmix connections, then onto Treatments PDF (below...)
+* Review Assignment #2 page one last time.
 
 ##### Sound File Treatments with `RTcmix~` (C3)
 * [Download a library of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing)
