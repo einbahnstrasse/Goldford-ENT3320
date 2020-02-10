@@ -34,8 +34,8 @@ Between 1 and 2 minutes of material maximum.
 * Email me the .zip file _(or send me a link to it if the archive is too large)._
 
 ### DEADLINE
-* <p class="redish">Due on Sunday night, March 1st, at 11:59 PM.</p>
-* As we will be immediately using your work the following day (Mon. 3/2), **no late work will be accepted.**
+* <p class="redish">Due on Sunday night, March 8th, at 11:59 PM.</p>
+* As we will be immediately using your work the following day (Mon. 3/9), **no late work will be accepted.**
 
 ### GRADING
 Subject to the **GENERAL GRADING RUBRIC** located in our <a href="/index.html">Course Syllabus.</a>  

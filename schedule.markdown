@@ -40,7 +40,7 @@ _Check back frequently!_
 * _What sorts of sights do you remember?_
 * Brainstorm — e.g. create a wordcloud, Venn diagram, etc.! 
 
-### [Assignment #1: Due Sunday 2/16!](/Goldford-ENT3320/resources/week.02/assignment.01.html)
+### [Assignment #1: Due Tuesday 2/18!](/Goldford-ENT3320/resources/week.02/assignment.01.html)
 * Finish building patches from Week 1.  
 * Work on assignment and finish projects for next week!
 
@@ -76,13 +76,26 @@ _Check back frequently!_
 
 * * *
 
-### Week 4: February 17th & 19th 
+### Week 4: February 19th Only
 #### Intermediate _RTcmix~_
+<p class="redish">No Class Monday; <i>City Tech is closed for Presidents' Day.</i></p>
 
 ##### Ice-Breaker + Discussion
-* Listening + Review of [Assignment #1](/Goldford-ENT3320/resources/week.02/assignment.01.html) Patches (on Monday 2/17)
+* Listening + Review of [Assignment #1](/Goldford-ENT3320/resources/week.02/assignment.01.html) Patches (on Wed 2/19)
 
-### [Assignment #2: Due Tuesday 2/25!](/Goldford-ENT3320/resources/week.04/assignment.02.html)
+### [Assignment #2: Due Sunday 3/1!](/Goldford-ENT3320/resources/week.04/assignment.02.html)
+
+##### MIDI Sequence —> RTcmix~
+* `bach.roll` as a MIDI sequencer / DAW / Event Manager
+* `RTcmix~` for Synthesis + Voice Allocation: in place of poly~ 
+
+* * *
+
+### Week 5: February 24th & 26th 
+
+##### Assignment #2 Prep
+* Finish bach slots patches in PDF
+* Review Assignment #1 page one last time...
 
 ##### Sound File Treatments with `RTcmix~` (C3)
 * [Download a library of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing)
@@ -94,19 +107,15 @@ _Check back frequently!_
 * the [PVOC](http://rtcmix.org/reference/instruments/PVOC.php) Phase Vocoder
 * [AM](http://rtcmix.org/reference/instruments/AM.php), i.e. apply amplitude or ring modulation to an input source
 
-##### MIDI Sequence —> RTcmix~
-* `bach.roll` as a MIDI sequencer / DAW / Event Manager
-* `RTcmix~` for Synthesis + Voice Allocation: in place of poly~ 
-
 * * *
 
-### Week 5: February 24th & 26th 
+### Week 6: March 2nd & 4th 
 #### Sampling and Physical Modeling Synthesis Using _Modalys~_ 
 
 ##### Ice-Breaker + Discussion
-* Listening + Review of [Assignment #2](/Goldford-ENT3320/resources/week.04/assignment.02.html) Patches (on Wednesday 2/26)
+* Listening + Review of [Assignment #2](/Goldford-ENT3320/resources/week.04/assignment.02.html) Patches (on Monday 3/2)
 
-### [Short Assignment #3: Due Sunday 3/1!](/Goldford-ENT3320/resources/week.05/assignment.03.html)
+### [Short Assignment #3: Due Sunday 3/8!](/Goldford-ENT3320/resources/week.05/assignment.03.html)
 
 ##### Introduction to _Modalys~_
 * `modalys~` for physical modeling synthesis in Max/MSP
@@ -118,8 +127,10 @@ _Check back frequently!_
 
 * * *
 
-### Week 6: March 2nd & 4th 
+### Week 7: March 9th & 11th 
 #### The _Unity_ Environment + Algorithmic Composition
+
+### [Midterm Assignment #4: Due Sunday 3/22!](/Goldford-ENT3320/resources/week.08/assignment.04.html)
 
 ##### Introduction to Sound in _Unity_
 * Overview of basic tools for scene creation
@@ -145,7 +156,7 @@ _Check back frequently!_
 
 * * *
 
-### Week 7: March 9th & 11th 
+### Week 8: March 16th & 18th 
 #### Chaos, Motion, and Density
 
 ##### Advanced Algorithmic Composition (C4+)
@@ -194,10 +205,9 @@ _Check back frequently!_
 
 * * *
 
-### Week 8: March 16th & 18th 
+### Week 9: March 23rd & 25th 
 #### 3D Audio Spatialization
-
-### [Midterm Assignment #4: Due Sunday 3/22!](/Goldford-ENT3320/resources/week.08/assignment.04.html)
+<p class="redish">Midterm grades will be available by 3/26.</p>
 
 ##### Spatialization in _spat~_
 * [spat~ for Max/MSP: download is NOW FREE!](https://forum.ircam.fr/projects/detail/spat/)
@@ -207,29 +217,10 @@ _Check back frequently!_
 * [LOCALIZE](http://rtcmix.org/reference/instruments/LOCALIZE.php), i.e. distance-based amplitude panning (DBAP)
 * Quick demo of how to do DBAP spatialization inside of _Unity._
 
-##### Ice-Breaker + Discussion (3/18)
+##### Ice-Breaker + Discussion (3/25)
+* Feedback on Midterm projects _(time permitting...)_
 * Brainstorming, Revisited...
 * Further consider as a group how these advanced audio tools might be used in conjugation with our theme of "memory," towards our final project. 
-
-* * *
-
-### Week 9: March 23rd & 25th 
-#### _Unity_ Particle Systems, Chroma Keying, and Video Assets
-<p class="redish">Midterm grades will be available by 3/26.</p>
-
-##### Ice-Breaker + Discussion
-* Listening + Review of [Midterm Assignment #4](/Goldford-ENT3320/resources/week.08/assignment.04.html) (on Monday 3/23)
-
-##### Particle Systems in _Unity_
-* [Unity Tutorials: Particle Systems](https://www.raywenderlich.com/138-introduction-to-unity-particle-systems)
-* [Unity Documentation: Particle Systems](https://docs.unity3d.com/Manual/class-ParticleSystem.html)
-* [Unity Scripting API: Particle Systems](https://docs.unity3d.com/ScriptReference/ParticleSystem.html)
-
-##### Chroma Keying + Video Assets
-* A Walkthrough: Simple Video Shoot —> Keying —> Semi-Transparent Video in _Unity_ 
-* [_Unity_ Chroma Key Shader: $8](https://assetstore.unity.com/packages/tools/chroma-key-shader-60917)
-* [Video Tutorial: AR Video with alpha channel: Premiere CC 2017, Unity3D 2017.3, Vuforia 7](https://youtu.be/4W5e6-TSpW0)
-* [Vuforia Blog on Alpha/transparent video](https://developer.vuforia.com/forum/unity/alphatransparent-video)
 
 * * *
 
@@ -258,6 +249,22 @@ _Check back frequently!_
 * * *
 
 ### Week 11: April 6th Only
+#### _Unity_ Particle Systems, Chroma Keying, and Video Assets
+
+##### Ice-Breaker + Discussion
+* Listening + Review of [Midterm Assignment #4](/Goldford-ENT3320/resources/week.08/assignment.04.html) (on Monday 3/23)
+
+##### Particle Systems in _Unity_
+* [Unity Tutorials: Particle Systems](https://www.raywenderlich.com/138-introduction-to-unity-particle-systems)
+* [Unity Documentation: Particle Systems](https://docs.unity3d.com/Manual/class-ParticleSystem.html)
+* [Unity Scripting API: Particle Systems](https://docs.unity3d.com/ScriptReference/ParticleSystem.html)
+
+##### Chroma Keying + Video Assets
+* A Walkthrough: Simple Video Shoot —> Keying —> Semi-Transparent Video in _Unity_ 
+* [_Unity_ Chroma Key Shader: $8](https://assetstore.unity.com/packages/tools/chroma-key-shader-60917)
+* [Video Tutorial: AR Video with alpha channel: Premiere CC 2017, Unity3D 2017.3, Vuforia 7](https://youtu.be/4W5e6-TSpW0)
+* [Vuforia Blog on Alpha/transparent video](https://developer.vuforia.com/forum/unity/alphatransparent-video)
+
 #### AR in _Unity_ (Time Permitting) + Teamwork Towards Final Project... 
 <p class="redish">Spring break Wednesday 4/8 — Thursday 4/16. (<i>Skip next week!</i>)</p>
 
