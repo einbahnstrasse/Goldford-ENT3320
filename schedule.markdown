@@ -75,7 +75,7 @@ _Check back frequently!_
 
 ##### Some Basic Patches + RTcmix Scripts
 * the [STRUM](http://rtcmix.org/reference/instruments/STRUM.php) and [WAVETABLE](http://rtcmix.org/reference/instruments/WAVETABLE.php) instruments
-* Using a `for loop` to generate a sequence of notes
+* Using a `for loop` to generate a sequence of notes  
 
 * * *
 
