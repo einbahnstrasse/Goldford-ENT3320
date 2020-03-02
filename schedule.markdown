@@ -87,24 +87,54 @@ _Check back frequently!_
 ##### Ice-Breaker + Discussion
 * Listening + Review of [Assignment #1](/Goldford-ENT3320/resources/week.02/assignment.01.html) Patches (on Wed 2/19)
 
-### [Assignment #2: Due Sunday 3/1!](/Goldford-ENT3320/resources/week.04/assignment.02.html)
+### [Assignment #2: Due Sunday 3/9!](/Goldford-ENT3320/resources/week.04/assignment.02.html)
 
-##### MIDI Sequence —> RTcmix~
-* Continue patching the examples in our PDF from last week...
-* `bach.roll` as a MIDI sequencer / DAW / Event Manager
-* `RTcmix~` for Synthesis + Voice Allocation: in place of poly~ 
+##### RTcmix~ Topics
+* Control RTcmix~ scripts with a bang from within your Max patch
+* Using MAXBANG()
+* Creating variables in RTcmix~ scripts, and linking them to Max variables
+* Using the maketable() function to control amplitude envelopes
 
 * * *
 
 ### Week 5: February 24th & 26th 
 
 ##### Assignment #2 Prep
-* Finish bach-to-RTcmix connections, then onto Treatments PDF (below...)
-* Review Assignment #2 page one last time.
+* Finish bach-to-RTcmix connections, then onto Treatments PDF
+* Review Assignment #2 page.
+
+##### MIDI Sequence —> RTcmix~
+* Addititve synthesis using parallel WAVETABLE() calls
+* Continue patching the examples in our PDF from last week...
+* `bach.roll` as a MIDI sequencer / DAW / Event Manager
+* `RTcmix~` for Synthesis + Voice Allocation: in place of poly~ 
+
+* * *
+
+### Week 6: March 2nd & 4th 
+#### Sound Treatments
+
+##### Assignment #2 Prep
+* Returning to small teams (pairs) for exchange of creative ideas and sharing of labor.
+* We will practice this collaboration by building the patches below mostly on small teams.
+
+##### What is a "Treatment" Anyway?!
+* [PDF of Patches as Screenshots](/Goldford-ENT3320/resources/week.04/Goldford.Sound.Treatments.pdf)
+* See PDF pg. 3 for an explanation...
+
+##### Use of Audio Samples in Our Projects
+* [Download a library of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing)
+* Where to find free sounds:
+	* [freesound.org](http://www.freesound.org/)
+	* [The Internet Archive](https://archive.org/)
+	* [The National Parks Service](https://www.nps.gov/index.htm)
+	* [NASA Celestial Sounds](https://www.nasa.gov/connect/sounds/index.html)
+	* Others? As long as you are [licensed](https://creativecommons.org/use-remix/) to download, distribute, adapt, arrange, remix, or otherwise appropriate. 
+* Importance of properly **attributing credit** to your sources (i.e. when a license is required!)
+* Best to record your _own sounds_ using your phone or any microphone/recording device you may have access to
 
 ##### Sound File Treatments with `RTcmix~` (C3)
-* [Download a library of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing)
-* [PDF of Patches as Screenshots](/Goldford-ENT3320/resources/week.04/Goldford.Sound.Treatments.pdf)
+* Break out into small groups and create some of the patches featured in our PDF.
 * Introduction to the [STEREO](http://rtcmix.org/reference/instruments/STEREO.php) and [MIX](http://rtcmix.org/reference/instruments/MIX.php) Instruments
 * the [TRANS](http://rtcmix.org/reference/instruments/TRANS.php) Pitch-Transposition Instrument
 * the [MOOGVCF](http://rtcmix.org/reference/instruments/MOOGVCF.php) 24dB/octave Resonant Lowpass Filter
@@ -112,28 +142,20 @@ _Check back frequently!_
 * the [PVOC](http://rtcmix.org/reference/instruments/PVOC.php) Phase Vocoder
 * [AM](http://rtcmix.org/reference/instruments/AM.php), i.e. apply amplitude or ring modulation to an input source
 
-* * *
-
-### Week 6: March 2nd & 4th 
-#### Sampling and Physical Modeling Synthesis Using _Modalys~_ 
-
-##### Ice-Breaker + Discussion
-* Listening + Review of [Assignment #2](/Goldford-ENT3320/resources/week.04/assignment.02.html) Patches (on Monday 3/2)
-
-### [Short Assignment #3: Due Sunday 3/8!](/Goldford-ENT3320/resources/week.05/assignment.03.html)
-
-##### Introduction to _Modalys~_
-* `modalys~` for physical modeling synthesis in Max/MSP
-* _ModaLisp_ for creating + naming batch samples
-
-##### A Logic Sampler Made from _Modalys~_
-* [Keymap our samples in Logic's EXS24 Sampler](https://www.youtube.com/watch?v=GZ58AQXYZOI)
-* Compose a sequence in Logic's [MIDI piano roll editor](https://www.youtube.com/watch?v=Jf-SrVhcxiU)
+##### Wednesday (3/4): Ice-Breaker
+* Recap on the direction of the final project
+* Where do you see these new sounds and techniques being useful in the context of our theme: creating a virtual memory space?
+* Are you getting a sense from our patches, demonstratons and your own creations about which sounds will be most useful for creating such a virtual environment? 
+* What sorts of visual imagery do these sounds suggest? 
+* What sorts of sounds would you _like to create_ in service of our final project?
 
 * * *
 
 ### Week 7: March 9th & 11th 
-#### The _Unity_ Environment + Algorithmic Composition
+#### The _Unity_ Environment
+
+##### Ice-Breaker + Discussion
+* Listening + Review of [Assignment #2](/Goldford-ENT3320/resources/week.04/assignment.02.html) Patches (on Monday 3/9)
 
 ### [Midterm Assignment #4: Due Sunday 3/22!](/Goldford-ENT3320/resources/week.08/assignment.04.html)
 
@@ -142,14 +164,6 @@ _Check back frequently!_
 * Overview of basic tools for sound manipulation
 * Create a basic scene, add a user perspective asset, an Audio File asset, add an 'invisible wall.'
 * When the user crosses a threshold, i.e. where the wall has been drawn, trigger the soundfile playback. 
-
-##### Simple Algorithmic Composition (C4)
-* Basic algorithmically-generated musical sequences
-	* Scale generation
-	* Loops
-	* Random notes from a reservoir (array of notes)
-	* automated FX — e.g. moving filters
-	* real-time control over FX
 
 ##### Connecting Your _RTcmix_ Scores to _Unity_ : Introduction to uRTcmix
 * [uRTcmix Video Tutorials](http://sites.music.columbia.edu/brad/uRTcmix/video-tutorials.html)
@@ -162,7 +176,15 @@ _Check back frequently!_
 * * *
 
 ### Week 8: March 16th & 18th 
-#### Chaos, Motion, and Density
+#### Algorithms: Chaos, Motion, and Density
+
+##### Simple Algorithmic Composition (C4)
+* Basic algorithmically-generated musical sequences
+	* Scale generation
+	* Loops
+	* Random notes from a reservoir (array of notes)
+	* automated FX — e.g. moving filters
+	* real-time control over FX
 
 ##### Advanced Algorithmic Composition (C4+)
 * More intricate algorithmically-generated musical sequences

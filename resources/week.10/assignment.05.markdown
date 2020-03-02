@@ -9,7 +9,8 @@ layout: default
 
 * Create a simple Unity 'scene' using our recently-acquired synthesis and spatialization tools.
 * Note: These will be SHORT sketches for _Unity_ and _RTcmix_ in which EACH STUDENT writes a short scene in Unity and integrates their own sounds into it. Later, when we do the final project, we will use our aforementioned "division of labor."
-* Students may begin to collaborate and consult one another, but this project is still graded on each individual's ability to put a scene together in Unity with a focus on their own sounds. We will work on teams to complete our final "collective" course project.
+* Students will collaborate with one another on small teams, but this project is still graded on each individual's ability to craft their own sounds. 
+* We will work on one large team to complete our final "collective" course project.
 
 <p class="redish">Choose 2 elements from the following list:</p> 
 

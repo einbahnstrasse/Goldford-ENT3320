@@ -33,7 +33,7 @@ Between 1 and 2 minutes of material maximum.
 * Email me the .zip file _(or send me a link to it if the archive is too large)._
 
 ### DEADLINE
-* <p class="redish">Due on Sunday night, March 1st, at 11:59 PM.</p>
+* <p class="redish">Due on Sunday night, March 8st, at 11:59 PM.</p>
 * As you will be presenting your work the following day (Monday 3/2), **no late work will be accepted.**
 
 ### GRADING
@@ -45,6 +45,6 @@ _Scores will be given out of 10 points. Your grade will be based on:_
 * Creativity and thoughtfulness of your musical ideas as recorded in your `bach.roll` MIDI composition.
 
 ### FEEDBACK
-We will listen to and discuss your work as a group next Monday 3/2.
+We will listen to and discuss your work as a group next Monday 3/9.
 
 * * *

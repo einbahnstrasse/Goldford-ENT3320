@@ -7,9 +7,7 @@ layout: default
 # Midterm Assignment #4: 20 points
 ## Algorithmic Extensions of Synthesis Processes
 
-_As before, compose a short sketch for your own RTcmix~ and/or Modalys~ instruments, using various combinations of the following materials covered in our recent class sessions._
-
-_However, if using Modalys~ it's best to have your soundfiles (i.e. those generated in Modalys~, samples from ModaLisp or whole sequences developed with your Sampler instrument in Logic) launched or triggered somehow by RTcmix~._ 
+_Compose a short sketch for your own RTcmix~ instruments, using various combinations of the following materials covered in our recent class sessions._
 
 _Your algorithmic sketch may be captured in a `bach.roll` or limited just to the real-time and/or scheduled loops and triggers you compose in Max using `RTcmix~`, or they may include both! (i.e. a `bach.roll` whose output controls not only RTcmix~ instruments but also algorithmic processes coded inside of RTcmix~ scripts. Ooo ahh!)_
 
