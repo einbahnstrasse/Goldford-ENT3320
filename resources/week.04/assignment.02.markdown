@@ -7,12 +7,13 @@ layout: default
 # Assignment #2: 10 points
 ## Connecting _bach_ to _RTcmix~_ 
 
-* Instantiate at least 2 of your own `RTcmix~` objects running separate RTcmix scripts:
+* Instantiate at least 1 of your own `RTcmix~` objects running separate RTcmix scripts:
 	* You'll be using `RTcmix~` in place of `poly~` as a synthesis engine for this assignment.
 	* Consider tweaking any of the RTcmix instruments or scripts we've demonstrated in class.
 	* Your script should employ the use of at least one `maketable` or `makegen` function. These can be used to modulate a note's amplitude envelope, FM depth, filter cutoff frequency, or any other synthesis parameter of your choosing.
 * Write another short musical sequence stored in a `bach.roll`, different from Assignment #1:
 	* Your sequence should have only 1 voice. (This has been changed, since we didn't cover multiple RTcmix~ objects.)
+	* You can use more than 1 RTcmix~ object and `bach.roll` voice if you like, although we did not cover this in class.
 	* Consider how your chosen sound and sketch of material might be used in our final project about memory.
 	* _Some excerpts may be chosen for inclusion in, or for development towards, our final project._
 * Write a text file that translates your bach sequence into RTcmix code:
