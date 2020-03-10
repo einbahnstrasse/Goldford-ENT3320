@@ -17,6 +17,7 @@ _A list of stuff we'll be using throughout the course. Most are open source; Max
 
 ### _RTcmix_ ("Real-Time cmix") 
 * [RTcmix Main Page _(Open-Source DSP + Sound Synthesis Language)_](http://rtcmix.org/rtcmix~/) 
+* [RTcmixShell for easy debugging on Mac/Windows, and for running scripts on Windows](https://cecm.indiana.edu/rtcmix/rtcmix-app.html)
 * [uRTcmix Main Page _(RTcmix —> Unity)_](http://sites.music.columbia.edu/brad/uRTcmix/) 
 	* [uRTcmix Video Tutorials](http://sites.music.columbia.edu/brad/uRTcmix/video-tutorials.html)
 		* [Basic Installation, Setup and Use of uRTcmix](https://youtu.be/V7HoD03Fmas)
