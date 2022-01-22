@@ -51,7 +51,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 ### Week 3: February 22nd 
 #### Introduction to _RTcmix~_ + Connecting _RTcmix~_ to _bach_
-<p class="redish">No Class Wednesday; <i>City Tech is closed for Lincoln's Birthday.</i></p>
+<!-- <p class="redish">No Class Wednesday; <i>City Tech is closed for Lincoln's Birthday.</i></p> -->
 
 ##### Drivers for Oxygen 8 USB/MIDI Keyboards
 * [Thanks for these, Alberto!](https://m-audio.com/support/download/drivers/midi-usb-driver-v3.5.3-mac)
@@ -82,7 +82,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 ### Week 4: March 1st
 #### Intermediate _RTcmix~_
-<p class="redish">No Class Monday; <i>City Tech is closed for Presidents' Day.</i></p>
+<!-- <p class="redish">No Class Monday; <i>City Tech is closed for Presidents' Day.</i></p> -->
 
 ##### Ice-Breaker + Discussion
 * Listening + Review of [Assignment #1](/Goldford-ENT3320/resources/week.02/assignment.01.html) Patches (on Wed 2/19)
@@ -152,7 +152,8 @@ _This page will be updated frequently with example patches, links to new resourc
 * * *
 
 ### Week 7: March 21st 
-#### The _Unity_ Environment
+#### The _Unity_ Environment  
+<p class="redish"><i>Midterm grades reported via email by 3/24. See <a href="https://www.citytech.cuny.edu/registrar/docs/spring_2022.pdf" target="_blank">CityTech Spring 2022 Schedule.</a></i></p>  
 
 ##### Ice-Breaker + Discussion
 * Listening + Review of [Assignment #2](/Goldford-ENT3320/resources/week.04/assignment.02.html) Patches (on Monday 3/9)
@@ -234,7 +235,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 ### Week 9: April 5th 
 #### 3D Audio Spatialization
-<p class="redish">Midterm grades will be available by 3/26.</p>
+<!-- <p class="redish">Midterm grades will be available by 3/26.</p> -->
 
 ##### Spatialization in _spat~_
 * [spat~ for Max/MSP: download is NOW FREE!](https://forum.ircam.fr/projects/detail/spat/)
@@ -253,7 +254,8 @@ _This page will be updated frequently with example patches, links to new resourc
 
 ### Week 10: April 12th 
 #### Storyboarding + Project #5 Prep
-<p class="redish">Prof. Goldford will be absent on April 1st; a substitute professor will be present.</p>
+<!-- <p class="redish">Prof. Goldford will be absent on April 1st; a substitute professor will be present.</p> -->
+<p class="redish"><i>Spring Recess 4/15-4/22. After today's class, we resume on 4/25. See <a href="https://www.citytech.cuny.edu/registrar/docs/spring_2022.pdf" target="_blank">CityTech Spring 2022 Schedule.</a></i></p>
 
 ##### Ice-Breaker + Discussion
 * Develop a _storyboard_ for any number of elements + short scenes that our collective project might include.
@@ -293,7 +295,7 @@ _This page will be updated frequently with example patches, links to new resourc
 * [Vuforia Blog on Alpha/transparent video](https://developer.vuforia.com/forum/unity/alphatransparent-video)
 
 #### AR in _Unity_ (Time Permitting) + Teamwork Towards Final Project... 
-<p class="redish">Spring break Wednesday 4/8 — Thursday 4/16. (<i>Skip next week!</i>)</p>
+<!-- <p class="redish">Spring break Wednesday 4/8 — Thursday 4/16. (<i>Skip next week!</i>)</p> -->
 
 ##### Creating Augmented Reality in _Unity_
 * [Creating AR Content With Vuforia](https://learn.unity.com/tutorial/recorded-video-session-creating-ar-content-with-vuforia#) 
@@ -319,6 +321,6 @@ _This page will be updated frequently with example patches, links to new resourc
 
 ### Week 15: May 24th
 #### Teamwork Towards Final Project... 
-* Talkback and Evaluation After Launch?
+* Talkback and Evaluation After Launch  
 
 * * *
