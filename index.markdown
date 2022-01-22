@@ -320,78 +320,78 @@ Please note: Our schedule of topics and their precise order may change. See the 
 <tr>
 <td markdown="span">1</td>
 <td markdown="span">2/1</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w1" target="_blank">Voice management in MaxMSP using poly~ and the bach library</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w1" target="_blank">Voice management in MaxMSP using poly~ and the bach library</a></td>
 </tr>
 <tr>
 <td markdown="span">2</td>
 <td markdown="span">2/15</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w2" target="_blank">Introduction to RTcmix~ instruments</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w2" target="_blank">Introduction to RTcmix~ instruments</a></td>
 </tr>
 <tr>
 <td markdown="span">3</td>
 <td markdown="span">2/22</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w3" target="_blank">Connecting RTcmix~ to bach, Making MIDI and RTcmix~ “sequences”</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w3" target="_blank">Connecting RTcmix~ to bach, Making MIDI and RTcmix~ “sequences”</a></td>
 </tr>
 <tr>
 <td markdown="span">4</td>
 <td markdown="span">3/1</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w4" target="_blank">Introduction to uRTcmix: the RTcmix-to-Unity Bridge</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w4" target="_blank">Introduction to uRTcmix: the RTcmix-to-Unity Bridge</a></td>
 </tr>
 <tr>
 <td markdown="span">5</td>
 <td markdown="span">3/8</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w5" target="_blank">Basic Unity Scenes with RTcmix~ Sound Sources</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w5" target="_blank">Basic Unity Scenes with RTcmix~ Sound Sources</a></td>
 </tr>
 <tr>
 <td markdown="span">6</td>
 <td markdown="span">3/15</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w6" target="_blank">Establish TEAMS: [1] Max/RTcmix~ [2] uRTcmix [3] Graphics/Unity, Storyboarding</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w6" target="_blank">Establish TEAMS: [1] Max/RTcmix~ [2] uRTcmix [3] Graphics/Unity, Storyboarding</a></td>
 </tr>
 <tr>
 <td markdown="span">7</td>
 <td markdown="span">3/21</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w7" target="_blank">Sound File Treatments with RTcmix~ and Using Sound Files in uRTcmix</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w7" target="_blank">Sound File Treatments with RTcmix~ and Using Sound Files in uRTcmix</a></td>
 </tr>
 <tr>
 <td markdown="span">8</td>
 <td markdown="span">3/29</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w8" target="_blank">ReaSamplomatic 5000 (sampling Instrument in Reaper), Making Samples</a>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w8" target="_blank">ReaSamplomatic 5000 (sampling Instrument in Reaper), Making Samples</a>
 </td>
 </tr>
 <tr>
 <td markdown="span">9</td>
 <td markdown="span">4/5</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w9" target="_blank">Intermediate RTcmix~ instruments</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w9" target="_blank">Intermediate RTcmix~ instruments</a></td>
 </tr>
 <tr>
 <td markdown="span">10</td>
 <td markdown="span">4/12</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w10" target="_blank">Using RTcmix~ “sequences” inside Unity scenes</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w10" target="_blank">Using RTcmix~ “sequences” inside Unity scenes</a></td>
 </tr>
 <tr>
 <td markdown="span">11</td>
 <td markdown="span">4/26</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w11" target="_blank">Linking different Unity scenes together</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w11" target="_blank">Linking different Unity scenes together</a></td>
 </tr>
 <tr>
 <td markdown="span">12</td>
 <td markdown="span">5/3</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w12" target="_blank">Final Project Work</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w12" target="_blank">Final Project Work</a></td>
 </tr>
 <tr>
 <td markdown="span">13</td>
 <td markdown="span">5/10</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w13" target="_blank">Final Project Work</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w13" target="_blank">Final Project Work</a></td>
 </tr>
 <tr>
 <td markdown="span">14</td>
 <td markdown="span">5/17</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w14" target="_blank">Final Project Work</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w14" target="_blank">Final Project Work</a></td>
 </tr>
 <tr>
 <td markdown="span">15</td>
 <td markdown="span">5/24</td>
-<td markdown="span"><a href="/Goldford-MTEC1003/schedule.html#w15" target="_blank">Complete Final Project, Talkback Session</a></td>
+<td markdown="span"><a href="/Goldford-ENT3320/schedule.html#w15" target="_blank">Complete Final Project, Talkback Session</a></td>
 </tr>
 </tbody>
 </table>
