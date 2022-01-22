@@ -7,9 +7,11 @@ layout: default
 
 # Schedule
 _This page will be updated frequently with example patches, links to new resources, video tutorials, and occasionally new or altered ASSIGNMENTS. Our schedule follows the [CityTech Spring 2022 Schedule](https://www.citytech.cuny.edu/registrar/docs/spring_2022.pdf){:target="_blank"}. The following topics and their precise order may change. Check here for updates!_   
+**Skip to:** <a href="#w1">Week 1</a> <a href="#w2">Week 2</a> <a href="#w3">Week 3</a> <a href="#w4">Week 4</a> <a href="#w5">Week 5</a> <a href="#w6">Week 6</a> <a href="#w7">Week 7</a> <a href="#w8">Week 8</a> <a href="#w9">Week 9</a> <a href="#w10">Week 10</a> <a href="#w11">Week 11</a> <a href="#w12">Week 12</a> <a href="#w13">Week 13</a> <a href="#w14">Week 14</a> <a href="#w15">Week 15</a>  
 
 * * *
 
+<a id="w1"></a>
 ### Week 1: February 1st
 #### Orientations, Introduction to the _bach_ Library, and Review of poly~
 ##### Start-of-Semester Business
@@ -31,6 +33,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 * * *
 
+<a id="w2"></a>
 ### Week 2: February 15th
 #### Continuation of Work with `poly~`
 <p class="redish"><i>Week 2 has skipped 1 week! 2/8 is on Friday schedule, so we resume Week 2 on 2/15. See <a href="https://www.citytech.cuny.edu/registrar/docs/spring_2022.pdf" target="_blank">CityTech Spring 2022 Schedule.</a></i></p>
@@ -49,6 +52,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 * * *
 
+<a id="w3"></a>
 ### Week 3: February 22nd 
 #### Introduction to _RTcmix~_ + Connecting _RTcmix~_ to _bach_
 <!-- <p class="redish">No Class Wednesday; <i>City Tech is closed for Lincoln's Birthday.</i></p> -->
@@ -79,7 +83,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 * * *
 
-
+<a id="w4"></a>
 ### Week 4: March 1st
 #### Intermediate _RTcmix~_
 <!-- <p class="redish">No Class Monday; <i>City Tech is closed for Presidents' Day.</i></p> -->
@@ -97,6 +101,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 * * *
 
+<a id="w5"></a>
 ### Week 5: March 8th 
 
 ##### Assignment #2 Prep
@@ -111,6 +116,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 * * *
 
+<a id="w6"></a>
 ### Week 6: March 15th 
 #### Sound Treatments
 
@@ -151,6 +157,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 * * *
 
+<a id="w7"></a>
 ### Week 7: March 21st 
 #### The _Unity_ Environment  
 <p class="redish"><i>Midterm grades reported via email by 3/24. See <a href="https://www.citytech.cuny.edu/registrar/docs/spring_2022.pdf" target="_blank">CityTech Spring 2022 Schedule.</a></i></p>  
@@ -176,6 +183,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 * * *
 
+<a id="w8"></a>
 ### Week 8: March 29th 
 #### Algorithms: Chaos, Motion, and Density
 
@@ -233,6 +241,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 * * *
 
+<a id="w9"></a>
 ### Week 9: April 5th 
 #### 3D Audio Spatialization
 <!-- <p class="redish">Midterm grades will be available by 3/26.</p> -->
@@ -252,6 +261,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 * * *
 
+<a id="w10"></a>
 ### Week 10: April 12th 
 #### Storyboarding + Project #5 Prep
 <!-- <p class="redish">Prof. Goldford will be absent on April 1st; a substitute professor will be present.</p> -->
@@ -277,6 +287,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 * * *
 
+<a id="w11"></a>
 ### Week 11: April 25th
 #### _Unity_ Particle Systems, Chroma Keying, and Video Assets
 
@@ -304,21 +315,25 @@ _This page will be updated frequently with example patches, links to new resourc
 
 * * *
 
+<a id="w12"></a>
 ### Week 12: May 3rd 
 #### Teamwork Towards Final Project... 
 
-* * *
+* * *  
 
+<a id="w13"></a>
 ### Week 13: May 10th 
 #### Teamwork Towards Final Project... 
 
 * * *
 
+<a id="w14"></a>
 ### Week 14: May 17th
 #### Teamwork Towards Final Project... 
 
 * * *
 
+<a id="w15"></a>
 ### Week 15: May 24th
 #### Teamwork Towards Final Project... 
 * Talkback and Evaluation After Launch  
