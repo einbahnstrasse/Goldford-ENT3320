@@ -7,7 +7,7 @@ layout: default
 <img src="https://s3.amazonaws.com/cbi-research-portal-uploads/2017/12/08142709/30d4f11b71844ac3905e42b714ecc406_original.gif" alt="VR-img" width="400" align="right">
 
 # Syllabus
-[_A PDF version of this Syllabus lives here._](/Goldford-ENT3320/resources/week.01/Goldford-ENT3320-Spring2020-Syllabus-v.01.pdf){:target="_blank"}  
+[_A PDF version of this Syllabus lives here._](/Goldford-ENT3320/resources/week.01/Goldford.ENT3320.Spring2022.Syllabus.v01.pdf){:target="_blank"}  
 
 #### C O N T E N T S  
 1. <a href="#contact">Essential Course + Contact Information</a>  
