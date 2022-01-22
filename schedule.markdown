@@ -6,12 +6,11 @@ layout: default
 ---
 
 # Schedule
-_This page will be updated each week with example patches, links to new resources, and occasional ASSIGNMENTS._   
-_Check back frequently!_
+_This page will be updated frequently with example patches, links to new resources, video tutorials, and occasionally new or altered ASSIGNMENTS. Our schedule follows the [CityTech Spring 2022 Schedule](https://www.citytech.cuny.edu/registrar/docs/spring_2022.pdf){:target="_blank"}. The following topics and their precise order may change. Check here for updates!_   
 
 * * *
 
-### Week 1: January 27th & 29th
+### Week 1: February 1st
 #### Orientations, Introduction to the _bach_ Library, and Review of poly~
 ##### Start-of-Semester Business
 * [Personal Info Form DUE NOW!](https://forms.gle/ZCrtqVX8SvHbbXPD6)
@@ -32,8 +31,9 @@ _Check back frequently!_
 
 * * *
 
-### Week 2: February 3rd & 5th
+### Week 2: February 15th
 #### Continuation of Work with `poly~`
+<p class="redish"><i>Week 2 has skipped 1 week! 2/8 is on Friday schedule, so we resume Week 2 on 2/15. See <a href="https://www.citytech.cuny.edu/registrar/docs/spring_2022.pdf" target="_blank">CityTech Spring 2022 Schedule.</a></i></p>
 
 ##### Ice-Breaker + Discussion
 * _What sorts of sounds do you remember?_
@@ -49,7 +49,7 @@ _Check back frequently!_
 
 * * *
 
-### Week 3: February 10th Only 
+### Week 3: February 22nd 
 #### Introduction to _RTcmix~_ + Connecting _RTcmix~_ to _bach_
 <p class="redish">No Class Wednesday; <i>City Tech is closed for Lincoln's Birthday.</i></p>
 
@@ -80,7 +80,7 @@ _Check back frequently!_
 * * *
 
 
-### Week 4: February 19th Only
+### Week 4: March 1st
 #### Intermediate _RTcmix~_
 <p class="redish">No Class Monday; <i>City Tech is closed for Presidents' Day.</i></p>
 
@@ -97,7 +97,7 @@ _Check back frequently!_
 
 * * *
 
-### Week 5: February 24th & 26th 
+### Week 5: March 8th 
 
 ##### Assignment #2 Prep
 * Finish bach-to-RTcmix connections, then onto Treatments PDF
@@ -111,7 +111,7 @@ _Check back frequently!_
 
 * * *
 
-### Week 6: March 2nd & 4th 
+### Week 6: March 15th 
 #### Sound Treatments
 
 ##### Assignment #2 Prep
@@ -151,7 +151,7 @@ _Check back frequently!_
 
 * * *
 
-### Week 7: March 9th & 11th 
+### Week 7: March 21st 
 #### The _Unity_ Environment
 
 ##### Ice-Breaker + Discussion
@@ -175,7 +175,7 @@ _Check back frequently!_
 
 * * *
 
-### Week 8: March 16th & 18th 
+### Week 8: March 29th 
 #### Algorithms: Chaos, Motion, and Density
 
 ##### Simple Algorithmic Composition (C4)
@@ -232,7 +232,7 @@ _Check back frequently!_
 
 * * *
 
-### Week 9: March 23rd & 25th 
+### Week 9: April 5th 
 #### 3D Audio Spatialization
 <p class="redish">Midterm grades will be available by 3/26.</p>
 
@@ -251,7 +251,7 @@ _Check back frequently!_
 
 * * *
 
-### Week 10: March 30th & April 1st 
+### Week 10: April 12th 
 #### Storyboarding + Project #5 Prep
 <p class="redish">Prof. Goldford will be absent on April 1st; a substitute professor will be present.</p>
 
@@ -275,7 +275,7 @@ _Check back frequently!_
 
 * * *
 
-### Week 11: April 6th Only
+### Week 11: April 25th
 #### _Unity_ Particle Systems, Chroma Keying, and Video Assets
 
 ##### Ice-Breaker + Discussion
@@ -302,22 +302,22 @@ _Check back frequently!_
 
 * * *
 
-### Week 12: April 20th & 22nd 
+### Week 12: May 3rd 
 #### Teamwork Towards Final Project... 
 
 * * *
 
-### Week 13: April 27th & 29th 
+### Week 13: May 10th 
 #### Teamwork Towards Final Project... 
 
 * * *
 
-### Week 14: May 4th & 6th
+### Week 14: May 17th
 #### Teamwork Towards Final Project... 
 
 * * *
 
-### Week 15: May 11th & 13th
+### Week 15: May 24th
 #### Teamwork Towards Final Project... 
 * Talkback and Evaluation After Launch?
 
