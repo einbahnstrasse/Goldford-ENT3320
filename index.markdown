@@ -62,11 +62,11 @@ _To create an immersive VR experience with algorithmically-generated audio and m
 <a id="outcomes"></a>
 ### IV. Learning Outcomes
 _By the end of the course students will be able to:_
-* **Create** original music and sound sequences using MaxMSP, RTcmix, and Modalys.   
+* **Create** original music and sound sequences using MaxMSP and RTcmix.   
 * **Understand** the fundamentals of poly~ design in Max.  
 * **Implement** a personal workspace for creating sound using the bach Library for Max.  
-* **Spatialize** and **Localize** audio sources inside Unity using Spat and RTcmix.  
-* **Record,** Edit, and **Chroma Key** video clips to be used as assets in Unity.  
+<!-- * **Spatialize** and **Localize** audio sources inside Unity using Spat and RTcmix.   -->
+<!-- * **Record,** Edit, and **Chroma Key** video clips to be used as assets in Unity.   -->
 * **Establish** a personal creative vision, and communicate it to your team member(s).  
 * **Implement** a shared workspace repository and develop work collectively.   
 * **Respect,** and **Respond** to the ideas and the critique of peers and team members.  
@@ -75,17 +75,17 @@ _By the end of the course students will be able to:_
 
 <a id="resources"></a>
 ### V. Software + Other Course Resources
-_See the [SOFTWARE TAB](/Goldford-ENT3320/resources.html) for download and documentation links._
+_See the [SOFTWARE TAB](/Goldford-ENT3320/resources.html){:target="_blank"} for download and documentation links._
 * MaxMSP  
 * Unity  
 * RTcmix (algorithmic sound language with MaxMSP external for synthesis prototyping)  
 * uRTcmix (Unity package)  
 * the bach Library for Computer-Assisted Composition in MaxMSP  
-<!-- * Spat  
-* Modalys  
-* Apple Logic Pro  
-* Adobe After Effects  
-* DSLR camera / green screen for recording video assets in Unity (supplied)   -->
+<!-- * Spat   -->
+<!-- * Modalys   -->
+<!-- * Apple Logic Pro   -->
+<!-- * Adobe After Effects   -->
+<!-- * DSLR camera / green screen for recording video assets in Unity (supplied)   -->
 * Reaper
 * Slack  
 * git, GitHub and git-lfs (large file storage)  
