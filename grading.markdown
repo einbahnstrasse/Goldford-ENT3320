@@ -5,6 +5,24 @@
 layout: default
 ---
 
+<!-- source: https://youtu.be/MOlaldp1Fv4 -->
+<div class="splash">
+	<div class="fade-in">
+		<h1>GRADING is under revision to accurately reflect our updated syllabus for Spring 2022.</h1>  
+		<!-- <h5><em>This page is currently under revision to accurately reflect our updated syllabus for Spring 2022.</em></h5>   -->
+		<!-- <h6>For now, please refer to the <a href="https://einbahnstrasse.github.io/Goldford-ENT3320/index.html#sched">General Schedule of Topics</a> and please check back here for updates soon!</h6>   -->
+	</div>
+</div>
+
+<script>
+	const splash = document.querySelector('.splash');
+	document.addEventListener('DOMContentLoaded', (e)=>{
+		setTimeout(()=>{
+			splash.classList.add('display-none');
+		}, 6000);
+	})
+</script>
+
 # Grading
 _A list of assignments, deadlines, and points to help you plan for the semester._  
 _For an overview of grading policies for this course, see the [General Grading Criteria located in the SYLLABUS.](index.html)_
