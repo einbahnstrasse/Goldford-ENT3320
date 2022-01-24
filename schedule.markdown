@@ -6,7 +6,9 @@ layout: default
 ---
 
 <div class="splash">
-	<h1 class="fade-in">Welcome!</h1>
+	<h1 class="fade-in">This page under site maintenance!</h1>
+	<p><em>The info on this page is currently under revision to accurately reflect our updated syllabus for Spring 2022.</em></p>
+	<p>For now, please refer to the <a href="https://einbahnstrasse.github.io/Goldford-ENT3320/index.html#sched">General Schedule of Topics</a> and please check back here for updates soon!</p>
 </div>
 
 <script>
