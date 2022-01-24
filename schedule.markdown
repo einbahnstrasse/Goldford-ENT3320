@@ -11,11 +11,11 @@ layout: default
 
 <script>
 	const splash = document.querySelector('.splash');
-	document.addEventListener('DOMContentLoaded', (e)=>(
-		setTimeout(()=>(
+	document.addEventListener('DOMContentLoaded', (e)=>{
+		setTimeout(()=>{
 			splash.classList.add('display-none');
-		), 2000);
-	))
+		}, 2000);
+	})
 </script>
 
 # Schedule

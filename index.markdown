@@ -30,26 +30,18 @@ layout: default
 <a id="contact"></a>
 ### I. Essential Course + Contact Information  
 
-**Course Number:** ENT3320
-**Semester:** Spring 2022
-**Section:** OL60 (26409)
-**Location + Time:** Tuesdays 11:30-2:00 + 2:30-5:30 [ONLINE]
+**Course Number:** ENT3320  
+**Semester:** Spring 2022  
+**Section:** OL60 (26409)  
+**Location + Time:** Tuesdays 11:30-2:00 + 2:30-5:30 [ONLINE]  
 
-**Professor:** Louis Goldford
-**Email: <a href="mailto:LGoldford@citytech.cuny.edu">LGoldford@citytech.cuny.edu</a>  
+**Professor:** Louis Goldford  
+**Email: <a href="mailto:LGoldford@citytech.cuny.edu">LGoldford@citytech.cuny.edu</a>    
 
 **Office Hours:** by appointment, scheduled via Calendly: [https://calendly.com/LouisGoldford](https://calendly.com/LouisGoldford){:target="_blank"}  
-**Office Location:** Zoom (scheduled through the Calendly link above)
+**Office Location:** Zoom (scheduled through the Calendly link above)  
 **Course Slack:** [http://goldford-ent3320-s22.slack.com/](http://goldford-ent3320-s22.slack.com/){:target="_blank"}  
 **Course Website:** [https://einbahnstrasse.github.io/Goldford-ENT3320/](https://einbahnstrasse.github.io/Goldford-ENT3320/){:target="_blank"}  
-
-**Location + Time:** Mondays + Wednesdays 6:00-8:30 PM V103A  
-**Professor:** Louis Goldford  
-**Email:** <a href="mailto:LGoldford@citytech.cuny.edu">LGoldford@citytech.cuny.edu</a>  
-**Office Hours:** by appointment (scheduled at the Calendly link above)     
-**Office Location:** Zoom (scheduled through the Calendly link above)    
-**Course Website:** <a href="https://einbahnstrasse.github.io/Goldford-ENT3320/">https://einbahnstrasse.github.io/Goldford-ENT3320/</a>  
-**Course Slack:** <a href="http://goldford-ent3320-s22.slack.com/">http://goldford-ent3320-s22.slack.com/</a>  
 
 * * *
 
