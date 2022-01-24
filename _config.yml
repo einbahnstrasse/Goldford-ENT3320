@@ -24,6 +24,7 @@ author: Prof. Louis Goldford
 description: >- # this means to ignore newlines until "baseurl:"
   Spring 2022 Tuesdays 11:30—2:00 + 2:30-5:30 [ONLINE] Prof. Louis Goldford.
 baseurl: "Goldford-ENT3320" # the subpath of your site, e.g. /blog
+# baseurl: 'http://localhost:4000/'
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: einbahnstrasse
 github_username:  einbahnstrasse

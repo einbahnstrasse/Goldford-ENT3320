@@ -5,6 +5,19 @@
 layout: default
 ---
 
+<div class="splash">
+	<h1 class="fade-in">Welcome!</h1>
+</div>
+
+<script>
+	const splash = document.querySelector('.splash');
+	document.addEventListener('DOMContentLoaded', (e)=>(
+		setTimeout(()=>(
+			splash.classList.add('display-none');
+		), 2000);
+	))
+</script>
+
 # Schedule
 _This page will be updated frequently with example patches, links to new resources, video tutorials, and occasionally new or altered ASSIGNMENTS. Our schedule follows the [CityTech Spring 2022 Schedule](https://www.citytech.cuny.edu/registrar/docs/spring_2022.pdf){:target="_blank"}. The following topics and their precise order may change. Check here for updates!_   
 **Skip to:** <a href="#w1">Week 1</a> <a href="#w2">Week 2</a> <a href="#w3">Week 3</a> <a href="#w4">Week 4</a> <a href="#w5">Week 5</a> <a href="#w6">Week 6</a> <a href="#w7">Week 7</a> <a href="#w8">Week 8</a> <a href="#w9">Week 9</a> <a href="#w10">Week 10</a> <a href="#w11">Week 11</a> <a href="#w12">Week 12</a> <a href="#w13">Week 13</a> <a href="#w14">Week 14</a> <a href="#w15">Week 15</a>  
