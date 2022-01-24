@@ -36,7 +36,7 @@ layout: default
 **Location + Time:** Tuesdays 11:30-2:00 + 2:30-5:30 [ONLINE]  
 
 **Professor:** Louis Goldford  
-**Email: <a href="mailto:LGoldford@citytech.cuny.edu">LGoldford@citytech.cuny.edu</a>    
+**Email:** <a href="mailto:LGoldford@citytech.cuny.edu">LGoldford@citytech.cuny.edu</a>    
 
 **Office Hours:** by appointment, scheduled via Calendly: [https://calendly.com/LouisGoldford](https://calendly.com/LouisGoldford){:target="_blank"}  
 **Office Location:** Zoom (scheduled through the Calendly link above)  

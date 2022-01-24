@@ -8,8 +8,8 @@ layout: default
 <!-- source: https://youtu.be/MOlaldp1Fv4 -->
 <div class="splash">
 	<div class="fade-in">
-		<h1>This page is under site maintenance!</h1>  
-		<h5><em>The info here is currently under revision to accurately reflect our updated syllabus for Spring 2022.</em></h5>  
+		<h1>Our SCHEDULE is under site maintenance!</h1>  
+		<h5><em>This page is currently under revision to accurately reflect our updated syllabus for Spring 2022.</em></h5>  
 		<h6>For now, please refer to the <a href="https://einbahnstrasse.github.io/Goldford-ENT3320/index.html#sched">General Schedule of Topics</a> and please check back here for updates soon!</h6>  
 	</div>
 </div>
