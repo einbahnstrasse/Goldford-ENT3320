@@ -28,34 +28,62 @@ layout: default
 8. <a href="#sched">General Schedule of Topics</a>  
 
 <a id="contact"></a>
-### I. Contact Information
+### I. Essential Course + Contact Information  
+
+**Course Number:** ENT3320
+**Semester:** Spring 2022
+**Section:** OL60 (26409)
+**Location + Time:** Tuesdays 11:30-2:00 + 2:30-5:30 [ONLINE]
+
+**Professor:** Louis Goldford
+**Email: <a href="mailto:LGoldford@citytech.cuny.edu">LGoldford@citytech.cuny.edu</a>  
+
+**Office Hours:** by appointment, scheduled via Calendly: [https://calendly.com/LouisGoldford](https://calendly.com/LouisGoldford){:target="_blank"}  
+**Office Location:** Zoom (scheduled through the Calendly link above)
+**Course Slack:** [http://goldford-ent3320-s22.slack.com/](http://goldford-ent3320-s22.slack.com/){:target="_blank"}  
+**Course Website:** [https://einbahnstrasse.github.io/Goldford-ENT3320/](https://einbahnstrasse.github.io/Goldford-ENT3320/){:target="_blank"}  
+
 **Location + Time:** Mondays + Wednesdays 6:00-8:30 PM V103A  
 **Professor:** Louis Goldford  
 **Email:** <a href="mailto:LGoldford@citytech.cuny.edu">LGoldford@citytech.cuny.edu</a>  
-**Office Hours:** by appointment  
-**Office Location:** V203  
+**Office Hours:** by appointment (scheduled at the Calendly link above)     
+**Office Location:** Zoom (scheduled through the Calendly link above)    
 **Course Website:** <a href="https://einbahnstrasse.github.io/Goldford-ENT3320/">https://einbahnstrasse.github.io/Goldford-ENT3320/</a>  
-**Course Slack:** <a href="http://goldford-ent3320.slack.com/">http://goldford-ent3320.slack.com/</a>  
+**Course Slack:** <a href="http://goldford-ent3320-s22.slack.com/">http://goldford-ent3320-s22.slack.com/</a>  
 
 * * *
 
 <a id="descr"></a>
 ### II. Course Description
-In this technical production course, students will collaborate on a team to create an immersive VR environment with interactive sound and music. Our goal will be an expressive VR experience with interactive audio rather than simply a game with fixed sound files. 
-Emphasis will be on sound and music within VR, and not sound that merely accompanies a visual world. We’ll consider excerpts from film and periodic readings to better understand the role sound plays in any audio-visual experience. Our soundtracks will become vital components of the virtual experience, and as such we’ll be using tools for real-time music generation alongside those that allow us to shape recorded and environmental sounds, etc.
+In this course, students will create an immersive VR environment with interactive sound and music. Our
+goal will be an expressive VR experience with musical and sonic events that change depending on user
+interaction and movement — rather than simply a game with fixed sound files that are periodically
+triggered. Emphasis will be on sound and music within VR, and not sound that merely accompanies a
+visual world. We’ll consider excerpts from film to better understand the role sound plays in an
+audio-visual experience. Our soundtracks will become vital components of the virtual experience we
+build, and as such, we’ll be using tools for real-time music generation alongside those that allow us to
+shape recorded and environmental sounds, etc.  
 
-The theme for this semester’s project will be `MEMORY`. Together we’ll develop a narrative around how a person’s daily activities can be interrupted and shaped by their memories and their dreams. To do this, we’ll be embedding a real-time music and sound synthesis program called RTcmix inside Unity. We’ll briefly visit the concepts of spatialization and physical modeling synthesis using the programs Spat and Modalys. 
+The theme for this semester’s project will be memory. Together we’ll develop a narrative around how a
+person’s daily activities can be interrupted and shaped by their memories and their dreams. To do this,
+we’ll be embedding a real-time music and sound synthesis program called RTcmix inside Unity. Briefly,
+we will also consider digital audio spatialization and other synthesis techniques using the program
+MaxMSP.  
+
+This course will be taught entirely online. Students participating at home will need access on their
+computers to MaxMSP, Unity, a reliable text editor (e.g. VS Code, Atom, etc.), GitHub, and Google Drive
+accounts accessible through CityTech email addresses. Occasional libraries may be installed together in
+class. A pair of headphones is highly recommended.   
 
 * * *
 
 <a id="goals"></a>
 ### III. Course Goals
 _To create an immersive VR experience with algorithmically-generated audio and music while:_  
-* Introducing students to the RTcmix sound synthesis programming language  
-* Refining students’ workflow/workspace in MaxMSP, especially as related to the development of polyphonic synthesizers and in composing scheduled sequences of music and audio  
-* Adding new libraries for synthesis and spatialization to students’ creative “toolkits”  
-* Embedding RTcmix within Unity; to import composed/sculpted sound into a gaming engine  
-* Storyboarding and designing a narrative around a central theme  
+1. Introducing students to the RTcmix sound synthesis programming language  
+2. Refining students’ workflow/workspace in MaxMSP, especially as related to the development of
+polyphonic synthesizers and in composing scheduled sequences of music and audio  
+3. Embedding RTcmix within Unity; to import composed/sculpted sound into a gaming engine.  
 
 * * *
 
@@ -91,7 +119,7 @@ _See the [SOFTWARE TAB](/Goldford-ENT3320/resources.html){:target="_blank"} for 
 * git, GitHub and git-lfs (large file storage)  
 * Flash drive & other portable drives or Dropbox/Google Drive account for local back-up    
 <!-- * Occasional short readings (supplied as downloadable PDFs or links)   -->
-* Additional software, libraries, or plugins may be assigned as needed throughout the course.
+* _Additional software, libraries, or plugins may be assigned as needed throughout the course._
 
 * * *
 
