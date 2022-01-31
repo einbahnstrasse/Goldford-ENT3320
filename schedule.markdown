@@ -33,10 +33,10 @@ _This page will be updated frequently with example patches, links to new resourc
 ### Week 1: February 1st
 #### Orientations, Introduction to the _bach_ Library, and Review of poly~
 ##### Start-of-Semester Business
-* [Personal Info Form DUE NOW!](https://forms.gle/ZCrtqVX8SvHbbXPD6){:target="_blank"}  
-* [Intro. Survey Due by end of Week #1!](https://forms.gle/ojTR48sR8exrum5V9){:target="_blank"}  
+* [Personal Info Form (finish this now)](https://forms.gle/7X84ZhdTB6YGwM3B9){:target="_blank"}  
+* [Intro. Survey Due by start of Week 2](https://forms.gle/Mx5kfNAeg8acsppFA){:target="_blank"}  
 * Review [Syllabus + course policies.](index.html){:target="_blank"}  
-* Review [Detailed Breakdown of Grading.](grading.html){:target="_blank"}  
+<!-- * Review [Detailed Breakdown of Grading.](grading.html){:target="_blank"}   -->
 
 ##### Ice-Breaker + Discussion
 * [Godzilla, Kubrick, and Ligeti: How Do We Hear this Music?](/Goldford-ENT3320/resources/week.01/ligeti.html){:target="_blank"}  
