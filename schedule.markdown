@@ -61,12 +61,22 @@ _This page will be updated frequently with example patches, links to new resourc
 * _What sorts of sights do you remember?_
 * Brainstorm — e.g. create a wordcloud, Venn diagram, etc.! 
 
-### [Assignment #1: Due Tuesday 2/18!](/Goldford-ENT3320/resources/week.02/assignment.01.html){:target="_blank"}  
+<!-- ### [Assignment #1: Due Tuesday 2/18!](/Goldford-ENT3320/resources/week.02/assignment.01.html){:target="_blank"}  
 * Finish building patches from Week 1.  
-* Work on assignment and finish projects for next week!
+* Work on assignment and finish projects for next week! -->
 
-##### Reading: Assigned for Monday 2/10
-[Ritchey, Marianna. "Intel Beethoven: The New Spirit of Classical Music." In _Composing Capital: Classical Music in the Neoliberal Era_, 114-139. Chicago: The University of Chicago Press, 2019.](/Goldford-ENT3320/resources/week.03/Ritchey.Chs.4.pdf){:target="_blank"}  
+<!-- ##### Reading: Assigned for Monday 2/10
+[Ritchey, Marianna. "Intel Beethoven: The New Spirit of Classical Music." In _Composing Capital: Classical Music in the Neoliberal Era_, 114-139. Chicago: The University of Chicago Press, 2019.](/Goldford-ENT3320/resources/week.03/Ritchey.Chs.4.pdf){:target="_blank"}   -->
+
+##### Video Tutorial  
+###### Introduction to RTcmix~  
+_Homework is described towards the end of the video._    
+
+<div class="video">
+    <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/hIwtIvMVXB8" frameborder="0" allowfullscreen></iframe>
+    </figure>
+</div>
 
 * * *
 
