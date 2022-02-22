@@ -142,7 +142,16 @@ _Homework is described towards the end of the video._
 * the [MOOGVCF](http://rtcmix.org/reference/instruments/MOOGVCF.php){:target="_blank"} 24dB/octave Resonant Lowpass Filter
 * the [GVERB](http://rtcmix.org/reference/instruments/GVERB.php){:target="_blank"} Gigaverb-type and [FREEVERB](http://rtcmix.org/reference/instruments/FREEVERB.php){:target="_blank"} Schroeder/Moorer Reverb Models
 * the [PVOC](http://rtcmix.org/reference/instruments/PVOC.php){:target="_blank"} Phase Vocoder
-* [AM](http://rtcmix.org/reference/instruments/AM.php){:target="_blank"}, i.e. apply amplitude or ring modulation to an input source
+* [AM](http://rtcmix.org/reference/instruments/AM.php){:target="_blank"}, i.e. apply amplitude or ring modulation to an input source  
+
+##### Video Tutorial  
+###### Using RTcmixShell (Outside of MaxMSP)  
+
+<div class="video">
+    <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/NuEMrz2dCc4" frameborder="0" allowfullscreen></iframe>
+    </figure>
+</div>  
 
 * * *
 
