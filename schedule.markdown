@@ -144,12 +144,21 @@ _Homework is described towards the end of the video._
 * the [PVOC](http://rtcmix.org/reference/instruments/PVOC.php){:target="_blank"} Phase Vocoder
 * [AM](http://rtcmix.org/reference/instruments/AM.php){:target="_blank"}, i.e. apply amplitude or ring modulation to an input source  
 
-##### Video Tutorial  
+##### Video Tutorials  
 ###### Using RTcmixShell (Outside of MaxMSP)  
 
 <div class="video">
     <figure>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/NuEMrz2dCc4" frameborder="0" allowfullscreen></iframe>
+    </figure>
+</div>  
+
+
+###### Introduction to uRTcmix (for Team #2)  
+
+<div class="video">
+    <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/V7HoD03Fmas" frameborder="0" allowfullscreen></iframe>
     </figure>
 </div>  
 
