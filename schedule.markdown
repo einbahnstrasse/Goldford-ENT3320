@@ -19,7 +19,7 @@ layout: default
 	document.addEventListener('DOMContentLoaded', (e)=>{
 		setTimeout(()=>{
 			splash.classList.add('display-none');
-		}, 6000);
+		}, 2000);
 	})
 </script>
 
@@ -38,8 +38,8 @@ _This page will be updated frequently with example patches, links to new resourc
 * Review [Syllabus + course policies.](index.html){:target="_blank"}  
 <!-- * Review [Detailed Breakdown of Grading.](grading.html){:target="_blank"}   -->
 
-##### Ice-Breaker + Discussion
-* [Godzilla, Kubrick, and Ligeti: How Do We Hear this Music?](/Goldford-ENT3320/resources/week.01/ligeti.html){:target="_blank"}  
+<!-- ##### Ice-Breaker + Discussion
+* [Godzilla, Kubrick, and Ligeti: How Do We Hear this Music?](/Goldford-ENT3320/resources/week.01/ligeti.html){:target="_blank"}   -->
 
 ##### Voice Allocation in Max Using the _bach_ Library
 * [PDF of Patches as Screenshots](/Goldford-ENT3320/resources/week.01/Goldford.Voice.Allocation.with.poly.pdf){:target="_blank"}  
@@ -78,26 +78,6 @@ _Homework is described towards the end of the video._
     </figure>
 </div>
 
-* * *
-
-<a id="w3"></a>
-### Week 3: February 22nd 
-#### Introduction to _RTcmix~_ + Connecting _RTcmix~_ to _bach_
-<!-- <p class="redish">No Class Wednesday; <i>City Tech is closed for Lincoln's Birthday.</i></p> -->
-
-##### Drivers for Oxygen 8 USB/MIDI Keyboards
-* [Thanks for these, Alberto!](https://m-audio.com/support/download/drivers/midi-usb-driver-v3.5.3-mac){:target="_blank"}  
-
-##### Ice-Breaker + Discussion
-* Group discussion of the Ritchey chapter assigned on 2/10
-* [Intel Beethoven _Experience Amazing_ Ad #1](https://youtu.be/JOkpg_MC6Vc){:target="_blank"}  
-* [Intel Beethoven _Experience Amazing_ Ad #2](https://youtu.be/JU9LoDd_5bo){:target="_blank"}  
-
-##### Assignment #1 Prep
-* Finish bach slots patches in PDF
-* Review Assignment #1 page one last time...
-* [New Computer Keyboard MIDI patches, when a real MIDI keyboard is unavailable](/Goldford-ENT3320/resources/week.03/lg.computer.midi.keyboard.zip){:target="_blank"}  
-
 ##### Introduction to _RTcmix_
 * Overview of [RTcmix.org](http://rtcmix.org/){:target="_blank"}  
 * [Scorefile commands + functions](http://rtcmix.org/reference/scorefile/){:target="_blank"} vs. [RTcmix instruments](http://rtcmix.org/reference/instruments/){:target="_blank"}  
@@ -108,6 +88,61 @@ _Homework is described towards the end of the video._
 ##### Some Basic Patches + RTcmix Scripts
 * the [STRUM](http://rtcmix.org/reference/instruments/STRUM.php){:target="_blank"} and [WAVETABLE](http://rtcmix.org/reference/instruments/WAVETABLE.php){:target="_blank"} instruments
 * Using a `for loop` to generate a sequence of notes  
+
+##### RTcmix~ Topics
+* Control RTcmix~ scripts with a bang from within your Max patch
+* Using MAXBANG()
+* Creating variables in RTcmix~ scripts, and linking them to Max variables
+* Using the maketable() function to control amplitude envelopes 
+
+* * *
+
+<a id="w3"></a>
+### Week 3: February 22nd 
+#### Introduction to _RTcmix~_ + Connecting _RTcmix~_ to _bach_
+<!-- <p class="redish">No Class Wednesday; <i>City Tech is closed for Lincoln's Birthday.</i></p> -->
+
+<!-- ##### Drivers for Oxygen 8 USB/MIDI Keyboards
+* [Thanks for these, Alberto!](https://m-audio.com/support/download/drivers/midi-usb-driver-v3.5.3-mac){:target="_blank"}   -->
+
+##### Ice-Breaker + Discussion  
+* Fresh new download for [RTcmix-2.03](http://sites.music.columbia.edu/brad/osx-windows-new-RTcmixes/maxmsp-OSX-rtcmix~.html){:target="_blank"} for modern macOS systems (including OSX Big Sur)  
+* any Windows users who are still experiencing trouble with `rtcmix~` in Max can simply use [RTcmixShell](https://cecm.indiana.edu/rtcmix/rtcmix-app.html){:target="_blank"} from our [Software Tab](https://einbahnstrasse.github.io/Goldford-ENT3320/resources.html){:target="_blank"}  
+* brief tutorial on using RTcmixShell.  
+* 3 Teams that comprise the entire project  
+* Assignment of team members and team leads  
+<!-- * Group discussion of the Ritchey chapter assigned on 2/10
+* [Intel Beethoven _Experience Amazing_ Ad #1](https://youtu.be/JOkpg_MC6Vc){:target="_blank"}  
+* [Intel Beethoven _Experience Amazing_ Ad #2](https://youtu.be/JU9LoDd_5bo){:target="_blank"}   -->
+
+##### Virtual Typing MIDI Keyboard  
+<!-- * Finish bach slots patches in PDF -->
+<!-- * Review Assignment #1 page one last time... -->
+* [New Computer Keyboard MIDI patches, when a real MIDI keyboard is unavailable](/Goldford-ENT3320/resources/week.03/lg.computer.midi.keyboard.zip){:target="_blank"}  
+
+##### What is a "Treatment" Anyway?!
+* [PDF of Patches as Screenshots](/Goldford-ENT3320/resources/week.04/Goldford.Sound.Treatments.pdf){:target="_blank"}  
+* See PDF pg. 3 for an explanation...
+
+##### Use of Audio Samples in Our Projects
+* [Download a library of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing){:target="_blank"}  
+* Where to find free sounds:
+	* [freesound.org](http://www.freesound.org/){:target="_blank"}  
+	* [The Internet Archive](https://archive.org/){:target="_blank"}  
+	* [The National Parks Service](https://www.nps.gov/index.htm){:target="_blank"}  
+	* [NASA Celestial Sounds](https://www.nasa.gov/connect/sounds/index.html){:target="_blank"}  
+	* Others? As long as you are [licensed](https://creativecommons.org/use-remix/){:target="_blank"} to download, distribute, adapt, arrange, remix, or otherwise appropriate. 
+* Importance of properly **attributing credit** to your sources (i.e. when a license is required!)
+* Best to record your _own sounds_ using your phone or any microphone/recording device you may have access to
+
+##### Sound File Treatments with `RTcmix~` (C3)
+* Break out into small groups and create some of the patches featured in our PDF.
+* Introduction to the [STEREO](http://rtcmix.org/reference/instruments/STEREO.php){:target="_blank"} and [MIX](http://rtcmix.org/reference/instruments/MIX.php){:target="_blank"} Instruments
+* the [TRANS](http://rtcmix.org/reference/instruments/TRANS.php){:target="_blank"} Pitch-Transposition Instrument
+* the [MOOGVCF](http://rtcmix.org/reference/instruments/MOOGVCF.php){:target="_blank"} 24dB/octave Resonant Lowpass Filter
+* the [GVERB](http://rtcmix.org/reference/instruments/GVERB.php){:target="_blank"} Gigaverb-type and [FREEVERB](http://rtcmix.org/reference/instruments/FREEVERB.php){:target="_blank"} Schroeder/Moorer Reverb Models
+* the [PVOC](http://rtcmix.org/reference/instruments/PVOC.php){:target="_blank"} Phase Vocoder
+* [AM](http://rtcmix.org/reference/instruments/AM.php){:target="_blank"}, i.e. apply amplitude or ring modulation to an input source
 
 * * *
 
@@ -121,11 +156,7 @@ _Homework is described towards the end of the video._
 
 ### [Assignment #2: Due Sunday 3/9!](/Goldford-ENT3320/resources/week.04/assignment.02.html){:target="_blank"}  
 
-##### RTcmix~ Topics
-* Control RTcmix~ scripts with a bang from within your Max patch
-* Using MAXBANG()
-* Creating variables in RTcmix~ scripts, and linking them to Max variables
-* Using the maketable() function to control amplitude envelopes
+
 
 * * *
 
@@ -152,29 +183,7 @@ _Homework is described towards the end of the video._
 * Returning to small teams (pairs) for exchange of creative ideas and sharing of labor.
 * We will practice this collaboration by building the patches below mostly on small teams.
 
-##### What is a "Treatment" Anyway?!
-* [PDF of Patches as Screenshots](/Goldford-ENT3320/resources/week.04/Goldford.Sound.Treatments.pdf){:target="_blank"}  
-* See PDF pg. 3 for an explanation...
 
-##### Use of Audio Samples in Our Projects
-* [Download a library of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing){:target="_blank"}  
-* Where to find free sounds:
-	* [freesound.org](http://www.freesound.org/){:target="_blank"}  
-	* [The Internet Archive](https://archive.org/){:target="_blank"}  
-	* [The National Parks Service](https://www.nps.gov/index.htm){:target="_blank"}  
-	* [NASA Celestial Sounds](https://www.nasa.gov/connect/sounds/index.html){:target="_blank"}  
-	* Others? As long as you are [licensed](https://creativecommons.org/use-remix/){:target="_blank"} to download, distribute, adapt, arrange, remix, or otherwise appropriate. 
-* Importance of properly **attributing credit** to your sources (i.e. when a license is required!)
-* Best to record your _own sounds_ using your phone or any microphone/recording device you may have access to
-
-##### Sound File Treatments with `RTcmix~` (C3)
-* Break out into small groups and create some of the patches featured in our PDF.
-* Introduction to the [STEREO](http://rtcmix.org/reference/instruments/STEREO.php){:target="_blank"} and [MIX](http://rtcmix.org/reference/instruments/MIX.php){:target="_blank"} Instruments
-* the [TRANS](http://rtcmix.org/reference/instruments/TRANS.php){:target="_blank"} Pitch-Transposition Instrument
-* the [MOOGVCF](http://rtcmix.org/reference/instruments/MOOGVCF.php){:target="_blank"} 24dB/octave Resonant Lowpass Filter
-* the [GVERB](http://rtcmix.org/reference/instruments/GVERB.php){:target="_blank"} Gigaverb-type and [FREEVERB](http://rtcmix.org/reference/instruments/FREEVERB.php){:target="_blank"} Schroeder/Moorer Reverb Models
-* the [PVOC](http://rtcmix.org/reference/instruments/PVOC.php){:target="_blank"} Phase Vocoder
-* [AM](http://rtcmix.org/reference/instruments/AM.php){:target="_blank"}, i.e. apply amplitude or ring modulation to an input source
 
 ##### Wednesday (3/4): Ice-Breaker
 * Recap on the direction of the final project
