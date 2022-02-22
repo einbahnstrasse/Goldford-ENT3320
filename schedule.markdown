@@ -111,14 +111,14 @@ _Homework is described towards the end of the video._
 * brief tutorial on using RTcmixShell.  
 * 3 Teams that comprise the entire project  
 * Assignment of team members and team leads  
-<!-- * Group discussion of the Ritchey chapter assigned on 2/10
-* [Intel Beethoven _Experience Amazing_ Ad #1](https://youtu.be/JOkpg_MC6Vc){:target="_blank"}  
-* [Intel Beethoven _Experience Amazing_ Ad #2](https://youtu.be/JU9LoDd_5bo){:target="_blank"}   -->
+<!-- * Group discussion of the Ritchey chapter assigned on 2/10 -->
+<!-- * [Intel Beethoven _Experience Amazing_ Ad #1](https://youtu.be/JOkpg_MC6Vc){:target="_blank"}   -->
+<!-- * [Intel Beethoven _Experience Amazing_ Ad #2](https://youtu.be/JU9LoDd_5bo){:target="_blank"}   -->
 
-##### Virtual Typing MIDI Keyboard  
+<!-- ##### Virtual Typing MIDI Keyboard   -->
 <!-- * Finish bach slots patches in PDF -->
 <!-- * Review Assignment #1 page one last time... -->
-* [New Computer Keyboard MIDI patches, when a real MIDI keyboard is unavailable](/Goldford-ENT3320/resources/week.03/lg.computer.midi.keyboard.zip){:target="_blank"}  
+<!-- * [New Computer Keyboard MIDI patches, when a real MIDI keyboard is unavailable](/Goldford-ENT3320/resources/week.03/lg.computer.midi.keyboard.zip){:target="_blank"}   -->
 
 ##### What is a "Treatment" Anyway?!
 * [PDF of Patches as Screenshots](/Goldford-ENT3320/resources/week.04/Goldford.Sound.Treatments.pdf){:target="_blank"}  
