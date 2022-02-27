@@ -53,7 +53,7 @@ _This page will be updated frequently with example patches, links to new resourc
 
 <a id="w2"></a>
 ### Week 2: February 15th
-#### Continuation of Work with `poly~`
+#### Introduction to RTcmix~ instruments  
 <p class="redish"><i>Week 2 has skipped 1 week! 2/8 is on Friday schedule, so we resume Week 2 on 2/15. See <a href="https://www.citytech.cuny.edu/registrar/docs/spring_2022.pdf" target="_blank">CityTech Spring 2022 Schedule.</a></i></p>
 
 ##### Ice-Breaker + Discussion
@@ -99,7 +99,7 @@ _Homework is described towards the end of the video._
 
 <a id="w3"></a>
 ### Week 3: February 22nd 
-#### Introduction to _RTcmix~_ + Connecting _RTcmix~_ to _bach_
+#### Connecting RTcmix~ to bach, Making MIDI and RTcmix~ “sequences”  
 <!-- <p class="redish">No Class Wednesday; <i>City Tech is closed for Lincoln's Birthday.</i></p> -->
 
 <!-- ##### Drivers for Oxygen 8 USB/MIDI Keyboards
@@ -126,17 +126,9 @@ _Homework is described towards the end of the video._
 
 ##### Use of Audio Samples in Our Projects
 * [Download a library of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing){:target="_blank"}  
-* Where to find free sounds:
-	* [freesound.org](http://www.freesound.org/){:target="_blank"}  
-	* [The Internet Archive](https://archive.org/){:target="_blank"}  
-	* [The National Parks Service](https://www.nps.gov/index.htm){:target="_blank"}  
-	* [NASA Celestial Sounds](https://www.nasa.gov/connect/sounds/index.html){:target="_blank"}  
-	* Others? As long as you are [licensed](https://creativecommons.org/use-remix/){:target="_blank"} to download, distribute, adapt, arrange, remix, or otherwise appropriate. 
-* Importance of properly **attributing credit** to your sources (i.e. when a license is required!)
-* Best to record your _own sounds_ using your phone or any microphone/recording device you may have access to
 
 ##### Sound File Treatments with `RTcmix~` (C3)
-* Break out into small groups and create some of the patches featured in our PDF.
+* Team #1: Divide patches among team members and create some of the patches featured in our PDF.  
 * Introduction to the [STEREO](http://rtcmix.org/reference/instruments/STEREO.php){:target="_blank"} and [MIX](http://rtcmix.org/reference/instruments/MIX.php){:target="_blank"} Instruments
 * the [TRANS](http://rtcmix.org/reference/instruments/TRANS.php){:target="_blank"} Pitch-Transposition Instrument
 * the [MOOGVCF](http://rtcmix.org/reference/instruments/MOOGVCF.php){:target="_blank"} 24dB/octave Resonant Lowpass Filter
@@ -166,13 +158,30 @@ _Homework is described towards the end of the video._
 
 <a id="w4"></a>
 ### Week 4: March 1st
-#### Intermediate _RTcmix~_
+#### Introduction to uRTcmix: the RTcmix-to-Unity Bridge  
 <!-- <p class="redish">No Class Monday; <i>City Tech is closed for Presidents' Day.</i></p> -->
 
 ##### Ice-Breaker + Discussion
-* Listening + Review of [Assignment #1](/Goldford-ENT3320/resources/week.02/assignment.01.html){:target="_blank"} Patches (on Wed 2/19)
+<!-- * Listening + Review of [Assignment #1](/Goldford-ENT3320/resources/week.02/assignment.01.html){:target="_blank"} Patches (on Wed 2/19) -->  
+* Share homework with team members & whole class  
+	* Team #1: Sound treatment example RTcmix scripts  
+	* Team #2: demo uRTcmix sound in Unity  
+	* Team #3: First images of scenes brainstormed last week  
+* Revise [Brainstorming Interactive Jamboard](https://jamboard.google.com/d/1Lt9O8o1IAWO6gbrzaxizh0HeVbDEXKt2uuCw9lp9jnc/edit?usp=sharing){:target="_blank"} _(To access and edit the this link you will need to log in with your Entertainment Technology Google group credentials or send me a request for permission through Google. All students in this course should currently have permission.)_   
 
-### [Assignment #2: Due Sunday 3/9!](/Goldford-ENT3320/resources/week.04/assignment.02.html){:target="_blank"}  
+##### Use of Audio Samples in Our Projects
+* [Download a library of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing){:target="_blank"}  
+* Where to find free sounds:
+	* [freesound.org](http://www.freesound.org/){:target="_blank"}  
+	* [The Internet Archive](https://archive.org/){:target="_blank"}  
+	* [The National Parks Service](https://www.nps.gov/index.htm){:target="_blank"}  
+	* [NASA Celestial Sounds](https://www.nasa.gov/connect/sounds/index.html){:target="_blank"}  
+	* Others? As long as you are [licensed](https://creativecommons.org/use-remix/){:target="_blank"} to download, distribute, adapt, arrange, remix, or otherwise appropriate. 
+* Importance of properly **attributing credit** to your sources (i.e. when a license is required!)
+* Best to record your _own sounds_ using your phone or any microphone/recording device you may have access to
+
+
+<!-- ### [Assignment #2: Due Sunday 3/9!](/Goldford-ENT3320/resources/week.04/assignment.02.html){:target="_blank"}   -->
 
 
 
