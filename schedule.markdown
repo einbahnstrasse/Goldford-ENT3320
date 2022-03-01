@@ -167,7 +167,9 @@ _Homework is described towards the end of the video._
 	* Team #1: Sound treatment example RTcmix scripts  
 	* Team #2: demo uRTcmix sound in Unity  
 	* Team #3: First images of scenes brainstormed last week  
-* Revise [Brainstorming Interactive Jamboard](https://jamboard.google.com/d/1Lt9O8o1IAWO6gbrzaxizh0HeVbDEXKt2uuCw9lp9jnc/edit?usp=sharing){:target="_blank"} _(To access and edit the this link you will need to log in with your Entertainment Technology Google group credentials or send me a request for permission through Google. All students in this course should currently have permission.)_   
+* Revise [Brainstorming Interactive Jamboard](https://jamboard.google.com/d/1Lt9O8o1IAWO6gbrzaxizh0HeVbDEXKt2uuCw9lp9jnc/edit?usp=sharing){:target="_blank"} _(To access and edit this link you will need to log in with your Entertainment Technology Google group credentials or send me a request for permission. All students in this course should currently have permission.)_   
+* Sound Objects and Game Objects Correspondences: Assign tasks for this coming week...  
+
 
 ##### Use of Audio Samples in Our Projects
 * [Download a library of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing){:target="_blank"}  
@@ -179,12 +181,13 @@ _Homework is described towards the end of the video._
 	* Others? As long as you are [licensed](https://creativecommons.org/use-remix/){:target="_blank"} to download, distribute, adapt, arrange, remix, or otherwise appropriate. 
 * Importance of properly **attributing credit** to your sources (i.e. when a license is required!)
 * Best to record your _own sounds_ using your phone or any microphone/recording device you may have access to
+	* [Voice Memos App (iOS)](https://support.apple.com/en-us/HT206775){:target="_blank"}    
+	* [Voice Recorder App (Android)](https://www.businessinsider.com/how-to-record-audio-on-android){:target="_blank"}  
+	* [10 Best Voice Recorder Apps for Android in 2021](https://www.rev.com/blog/best-voice-recorder-apps-for-android){:target="_blank"}   
+	* [Convert .mp3 and .m4a files to .WAV online for free!](https://convertio.co/){:target="_blank"}  
 
 
 <!-- ### [Assignment #2: Due Sunday 3/9!](/Goldford-ENT3320/resources/week.04/assignment.02.html){:target="_blank"}   -->
-
-
-
 * * *
 
 <a id="w5"></a>
