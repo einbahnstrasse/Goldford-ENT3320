@@ -169,6 +169,7 @@ _Homework is described towards the end of the video._
 	* Team #3: First images of scenes brainstormed last week  
 * Revise [Brainstorming Interactive Jamboard](https://jamboard.google.com/d/1Lt9O8o1IAWO6gbrzaxizh0HeVbDEXKt2uuCw9lp9jnc/edit?usp=sharing){:target="_blank"} _(To access and edit this link you will need to log in with your Entertainment Technology Google group credentials or send me a request for permission. All students in this course should currently have permission.)_   
 * Sound Objects and Game Objects Correspondences: Assign tasks for this coming week...  
+* Sound processing in RTcmixShell demonstration  
 
 
 ##### Use of Audio Samples in Our Projects
