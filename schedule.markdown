@@ -170,7 +170,7 @@ _Homework is described towards the end of the video._
 * Revise [Brainstorming Interactive Jamboard](https://jamboard.google.com/d/1Lt9O8o1IAWO6gbrzaxizh0HeVbDEXKt2uuCw9lp9jnc/edit?usp=sharing){:target="_blank"} _(To access and edit this link you will need to log in with your Entertainment Technology Google group credentials or send me a request for permission. All students in this course should currently have permission.)_   
 * Sound Objects and Game Objects Correspondences: Assign tasks for this coming week...  
 * Sound processing in RTcmixShell demonstration  
-
+* Revise [Today's Planning Jamboard](https://jamboard.google.com/d/1lKYi3Ldnf-hqhDLXi1ph2yfJrQOHONBxk9wONc3Enno/edit?usp=sharing){:target="_blank"}  
 
 ##### Use of Audio Samples in Our Projects
 * [Download a library of audio samples for testing](https://drive.google.com/file/d/1PQGkOrSoLyr3BhetR9fqzwEQ-ya11g5J/view?usp=sharing){:target="_blank"}  
