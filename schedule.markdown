@@ -190,6 +190,14 @@ _Homework is described towards the end of the video._
 ##### for Unity/Graphics Team #3:
 * [How to Make a Prefab](https://docs.unity3d.com/Manual/CreatingPrefabs.html){:target="_blank"}  
 
+###### Recording Your Own Sounds (for Team #1)  
+
+<div class="video">
+    <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/htwcHgpzNjk" frameborder="0" allowfullscreen></iframe>
+    </figure>
+</div> 
+
 <!-- ### [Assignment #2: Due Sunday 3/9!](/Goldford-ENT3320/resources/week.04/assignment.02.html){:target="_blank"}   -->
 * * *
 
